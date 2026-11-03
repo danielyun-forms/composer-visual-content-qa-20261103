@@ -1,0 +1,36 @@
+{
+  "runId": "7cedb63f-a79b-4770-aa06-d6f72edc8117",
+  "startedAt": "2026-11-03T16:18:37.725Z",
+  "status": "ready",
+  "browserVersion": "153.0.8010.12",
+  "assetSource": "690310ccb3bdea3ce3e207a4b71031209662e776",
+  "assetOrigin": "https://static.klaviyo.com",
+  "device": "desktop",
+  "timings": {
+    "browserConnection": 123,
+    "extensionInstall": 7,
+    "extensionSettings": 513,
+    "storefrontNavigation": 384,
+    "applicationVerification": 846
+  },
+  "checks": [
+    {
+      "label": "fresh-context",
+      "verifiedAt": "2026-11-03T16:18:44.615Z",
+      "identified": false,
+      "documentMarker": true,
+      "slots": {},
+      "applicationFullForms": {
+        "url": "https://static-forms.klaviyo.com/forms/api/v7/WeAFEE/full-forms",
+        "status": 200,
+        "marker": "onsite-browser-kit-v1"
+      },
+      "localAssets": [
+        {
+          "url": "https://static.klaviyo.com/onsite/js/build-preview/commit-690310ccb3bdea3ce3e207a4b71031209662e776/signup_forms.61e329817281a.js?cb=2",
+          "status": 200
+        }
+      ]
+    }
+  ]
+}

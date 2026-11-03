@@ -1,0 +1,968 @@
+- link "Skip to content":
+  - /url: "#app-shell-main"
+  - generic: Skip to content
+- text: Composer is getting smarter. Your preview has
+- strong: 12 days and 9,207 credits remaining
+- text: .
+- button "Upgrade":
+  - generic: Upgrade
+- button "Dismiss":
+  - generic: Dismiss
+- alert
+- alert
+- complementary:
+  - button "Collapse" [expanded]:
+    - generic: Collapse
+  - link "Go to the dashboard.":
+    - /url: /dashboard
+  - generic: Search
+  - combobox "Search"
+  - generic: ⌘ K
+  - navigation:
+    - list:
+      - link "Get started":
+        - /url: /onboarding
+        - generic: Get started
+    - list:
+      - link "Home":
+        - /url: /dashboard
+        - generic: Home
+      - link "Composer":
+        - /url: /composer-agent
+        - generic: Composer
+      - link "Artifacts":
+        - /url: /composer-agent/artifacts
+        - generic: Artifacts
+    - list:
+      - link "Campaigns":
+        - /url: /omnicampaigns?appBarNav=true
+        - generic: Campaigns
+      - link "Flows":
+        - /url: /flows
+        - generic: Flows
+    - list:
+      - button "Website":
+        - generic: Website
+      - region:
+        - link:
+          - /url: /forms
+          - generic: Sign-up forms
+        - link:
+          - /url: /landing-pages
+          - generic: Landing pages
+        - link:
+          - /url: /customer-hub
+          - generic: Customer Hub
+        - link:
+          - /url: /reviews
+          - generic: Reviews
+      - button "Social":
+        - generic: Social
+      - region:
+        - link:
+          - /url: /social
+          - generic: Auto-replies
+        - link:
+          - /url: /social-content
+          - generic: Social content
+        - link:
+          - /url: /social-analytics
+          - generic: Performance
+          - status:
+            - generic: New
+      - button "Service":
+        - generic: Service
+      - region:
+        - link:
+          - /url: /service
+          - generic: Overview
+        - link:
+          - /url: /kagent
+          - generic: Customer Agent
+        - link:
+          - /url: /inbox
+          - generic: Helpdesk
+      - button "Audience" [expanded]:
+        - generic: Audience
+      - region "Audience":
+        - link "Growth tools":
+          - /url: /growth-tools
+          - generic: Growth tools
+        - link "Lists & segments":
+          - /url: /lists
+          - generic: Lists & segments
+        - link "Profiles":
+          - /url: /people
+          - generic: Profiles
+        - link "Geofences":
+          - /url: /geofences
+          - generic: Geofences
+        - link "Locations":
+          - /url: /locations
+          - generic: Locations
+        - link "Live Events":
+          - /url: /live-events
+          - generic: Live Events
+      - button "Content":
+        - generic: Content
+      - region:
+        - link:
+          - /url: /templates/landing
+          - generic: Templates
+        - link:
+          - /url: /templates/saved-content
+          - generic: Universal content
+        - link:
+          - /url: /catalogs
+          - generic: Products
+        - link:
+          - /url: /brand-library/brand
+          - generic: Media & brand
+        - link:
+          - /url: /coupons
+          - generic: Coupons
+        - link:
+          - /url: /objects
+          - generic: Objects
+        - link:
+          - /url: /automations
+          - generic: Automations
+      - button "Analytics":
+        - generic: Analytics
+      - region:
+        - link:
+          - /url: /analytics/dashboards
+          - generic: Dashboards
+        - link:
+          - /url: /experiments
+          - generic: Experiments
+        - link:
+          - /url: /analytics/metrics
+          - generic: Metrics
+        - link:
+          - /url: /analytics/benchmarks
+          - generic: Benchmarks
+        - link:
+          - /url: /analytics/deliverability
+          - generic: Deliverability
+        - link:
+          - /url: /analytics/reports
+          - generic: Custom reports
+    - button "Advanced" [expanded]:
+      - generic: Advanced
+    - list:
+      - link "Personalization":
+        - /url: /marketing-analytics
+        - generic: Personalization
+    - button "Grow with Klaviyo" [expanded]:
+      - generic: Grow with Klaviyo
+    - list:
+      - link "BFCM 2026":
+        - /url: /bfcm-hub
+        - generic: BFCM 2026
+  - link "Integrations":
+    - /url: /integrations
+    - generic: Integrations
+  - button "Get started for $1":
+    - generic: Get started for $1
+  - button "Products & usage":
+    - generic: Products & usage
+  - button "7 unread notifications":
+    - generic: Notifications
+    - generic: "7"
+  - button "Support":
+    - generic: Support
+  - button "Account Menu":
+    - generic: Da
+    - strong: Daniel Yun Test Account
+  - slider "Resize or hide the navigation sidebar"
+- main:
+  - navigation "Breadcrumb":
+    - list:
+      - link "Signup forms":
+        - /url: /forms
+      - listitem: /
+      - link "Composer QA - Visual and Content - 2026-11-03":
+        - /url: /forms/XBMzK8
+  - generic: Proposal
+  - button "Close preview":
+    - generic: Close
+  - button "Update form":
+    - generic: Update form
+  - heading "Form details" [level=2]
+  - term:
+    - generic: Name
+  - definition: Composer QA - Visual and Content - 2026-11-03
+  - term:
+    - generic: Form type
+  - definition: Popup
+  - heading "Targeting" [level=2]
+  - heading "Audience" [level=2]
+  - term:
+    - generic: Show to
+  - definition: Shown to all audience members
+  - heading "URLs" [level=2]
+  - term:
+    - generic: Show on
+  - definition: All pages
+  - heading "Location" [level=2]
+  - term:
+    - generic: Locations
+  - definition: Everywhere
+  - heading "Display" [level=2]
+  - heading "Display priority" [level=2]
+  - term:
+    - generic: Priority
+  - definition: Medium (default)
+  - heading "Timing" [level=2]
+  - term:
+    - generic: Show form
+  - definition: Immediately
+  - heading "Frequency" [level=2]
+  - term:
+    - generic: If visitor closes form, show again after
+  - definition: 90 days
+  - term:
+    - generic: After submission
+  - definition: Can be shown again after the form is submitted
+  - heading "Devices" [level=2]
+  - term:
+    - generic: Show on
+  - definition: Desktop and mobile
+  - term:
+    - generic: Click outside form to close
+  - definition: On desktop only
+  - status:
+    - text: This is a
+    - strong: read-only
+    - text: proposal. Nothing changes on the form until you update it.
+    - generic: "Form alerts: reviewNotSelected: Select a review to display on this form before publishing., unverifiedSmsNumber: This account's SMS numbers could not be verified. Carriers will not deliver messages from unverified numbers., cannotSubmitForm: This form collects information but cannot be submitted. Add a button with a submit action., reviewDisclosureLanguage: This form collects transactional SMS consent. Update the disclosure language to cover both promotional and transactional consent."
+  - group "Step":
+    - button "Age verification":
+      - generic: Age verification
+    - button "Email Opt-in":
+      - generic: Email Opt-in
+    - button "SMS Opt-in":
+      - generic: SMS Opt-in
+    - button "Success":
+      - generic: Success
+  - generic: Device to preview
+  - group "Device to preview":
+    - generic: Device to preview
+    - radiogroup:
+      - radio "Desktop" [checked]
+      - generic: Desktop
+      - radio "Mobile"
+      - generic: Mobile
+  - dialog "Newsletter signup and preferences":
+    - button "Close dialog":
+    - generic: Date of birth
+    - textbox "Date of birth":
+      - /placeholder: MM/DD/YYYY
+    - button "Continue"
+    - alert
+- button "Composer QA popup signup form draft":
+  - generic: Composer QA popup signup form draft
+- generic: "1"
+- generic: 1 unread conversation
+- button "Customize":
+  - generic: Customize
+- button "Start a new chat":
+  - generic: Start a new chat
+- button "Expand":
+  - generic: Expand
+- button "Close":
+  - generic: Close
+- region "Messages":
+  - paragraph:
+    - text: Composer is an AI assistant. By sending a message, you consent to this chat being recorded and processed by us and our service providers.
+    - link "Privacy Notice":
+      - /url: https://privacy.klaviyo.com/policies/?name=klaviyo-privacy-policy
+  - log:
+    - article "Composer":
+      - generic: Composer
+      - status
+      - paragraph: I’ll try deleting Success from the current proposal without adding any replacement, keeping it unpublished.
+      - generic: Edited form Composer QA - Visual and Content - 2026-11-03
+      - paragraph: Updated the current proposal.
+      - list:
+        - paragraph:
+          - strong: Deleted
+          - text: the remaining Success step, leaving
+          - strong: zero steps total
+          - text: .
+        - paragraph:
+          - strong: Added
+          - text: no replacements or new steps.
+        - paragraph:
+          - strong: Kept
+          - text: unpublished status.
+      - paragraph:
+        - strong: Save the preview card to apply this change to the existing QA draft.
+      - button
+      - generic: Composer QA - Visual and Content - 2026-11-03
+      - generic: Proposed signup form changes
+      - generic: Close preview
+      - button "Close preview":
+      - button "Copy this message":
+        - generic: Copy this message
+      - button "Give positive feedback":
+        - generic: Give positive feedback
+      - button "Give negative feedback":
+        - generic: Give negative feedback
+      - generic: 18 minutes ago
+    - article "You":
+      - generic: You
+      - paragraph:
+        - text: "Restore QA draft XBMzK8 to a valid two-step form: Email Opt-in and Success. Email Opt-in: heading Fresh finds, first access (Georgia, 32px, #183A59"
+        - text: ", left aligned), body Get weekly updates and exclusive offers. with exclusive offers bold, required Email input mapped to email, and Join the list button submitting to the real existing Email List then showing Success. Success heading Thanks for subscribing! Also add optional text input Favorite color mapped to profile property qa_favorite_color, dropdown Favorite season mapped to qa_season with Spring/Summer/Autumn/Winter, radio group Shopping preference mapped to qa_preference with Online/In store, multi-checkbox Interests mapped to qa_interests with Books/Music/Travel, and date input Birthday using MM/DD/YYYY mapped to Birthday. Keep the same form ID and unpublished."
+      - generic: 17 minutes ago
+      - button "Copy this message":
+        - generic: Copy this message
+    - article "Composer":
+      - generic: Composer
+      - status
+      - paragraph: I’ll restore Email Opt-in and Success in the existing proposal, add the requested profile fields, and connect submission to the real Email List while keeping the form unpublished.
+      - button "Worked for 5s":
+        - generic: Worked for 5s
+      - generic: Edited form Composer QA - Visual and Content - 2026-11-03
+      - paragraph:
+        - text: Restored the proposal for
+        - link "QA draft XBMzK8":
+          - /url: /forms/XBMzK8
+          - generic: QA draft XBMzK8
+        - text: to
+        - strong: Email Opt-in → Success
+        - text: ", with no validation alerts."
+      - list:
+        - paragraph:
+          - strong: Restored
+          - text: "“Fresh finds, first access” in Georgia, 32px, #183A59"
+          - text: ", left aligned, and the body with"
+          - strong: exclusive offers
+          - text: bold.
+        - paragraph:
+          - strong: Added
+          - text: required Email and all five requested profile fields, using the exact mappings, options, and MM/DD/YYYY birthday format. The additional fields are optional.
+        - paragraph:
+          - strong: Connected
+          - text: “Join the list” to the existing
+          - link "Email List":
+            - /url: /list/WATtbi
+            - generic: Email List
+          - text: ", then Success."
+        - paragraph:
+          - strong: Restored
+          - text: “Thanks for subscribing!” on Success.
+        - paragraph:
+          - strong: Kept
+          - text: the same form ID and unpublished status.
+      - paragraph:
+        - strong: Save the preview card to apply the restoration to the existing draft.
+      - button
+      - generic: Composer QA - Visual and Content - 2026-11-03
+      - generic: Proposed signup form changes
+      - generic: Close preview
+      - button "Close preview":
+      - button "Copy this message":
+        - generic: Copy this message
+      - button "Give positive feedback":
+        - generic: Give positive feedback
+      - button "Give negative feedback":
+        - generic: Give negative feedback
+      - generic: 17 minutes ago
+    - article "You":
+      - generic: You
+      - paragraph: On QA draft XBMzK8, change Favorite season dropdown to exactly one option Spring, Shopping preference radio buttons to exactly one option Online, and Interests multi-checkbox to exactly one option Books. For each option, explicitly store the same text as both its label and its profile-property value. Preserve the property mappings and keep unpublished. Also set Birthday to the supported MM/DD/YYYY date format, not only placeholder text; Designer currently shows Date Format as Select an option.
+      - generic: 15 minutes ago
+      - button "Copy this message":
+        - generic: Copy this message
+    - article "Composer":
+      - generic: Composer
+      - status
+      - paragraph: I’ll reduce each choice field to the single requested option and check the Birthday format setting, preserving the property mappings and unpublished status.
+      - button "Worked for 6s":
+        - generic: Worked for 6s
+      - generic: Edited form Composer QA - Visual and Content - 2026-11-03
+      - paragraph:
+        - text: Updated the proposal for
+        - link "QA draft":
+          - /url: /forms/XBMzK8
+          - generic: QA draft
+        - text: ":"
+      - list:
+        - paragraph:
+          - strong: Set
+          - text: Favorite season to only
+          - strong: Spring
+          - text: ", with label and stored value both"
+          - code: Spring
+          - text: .
+        - paragraph:
+          - strong: Set
+          - text: Shopping preference to only
+          - strong: Online
+          - text: ", with label and stored value both"
+          - code: Online
+          - text: .
+        - paragraph:
+          - strong: Set
+          - text: Interests to only
+          - strong: Books
+          - text: ", with label and stored value both"
+          - code: Books
+          - text: .
+        - paragraph:
+          - strong: Preserved
+          - text: all property mappings and unpublished status.
+      - paragraph:
+        - strong: Birthday remains unresolved.
+        - text: Its actual format setting already contains
+        - code: MM/DD/YYYY
+        - text: ", not just its placeholder, but that value is not being recognized by Designer. I couldn’t verify the supported underlying value, so I haven’t claimed it fixed or substituted a guess."
+      - paragraph:
+        - text: Save the preview to apply the option changes. For Birthday, select the Date block and choose the month/day/four-digit-year format under
+        - strong: Date Format
+        - text: ", with"
+        - code: /
+        - text: as the delimiter.
+      - button
+      - generic: Composer QA - Visual and Content - 2026-11-03
+      - generic: Proposed signup form changes
+      - generic: Close preview
+      - button "Close preview":
+      - button "Copy this message":
+        - generic: Copy this message
+      - button "Give positive feedback":
+        - generic: Give positive feedback
+      - button "Give negative feedback":
+        - generic: Give negative feedback
+      - generic: 15 minutes ago
+    - article "You":
+      - generic: You
+      - paragraph: On QA draft XBMzK8, set the Favorite season dropdown options to Spring, Spring, Summer; Shopping preference radio options to Online, Online, In store; and Interests multi-checkbox options to Books, Books, Music. Use identical labels and stored values and preserve the duplicates exactly if supported. If duplicates are invalid, explain and leave those fields unchanged. Keep unpublished.
+      - generic: 13 minutes ago
+      - button "Copy this message":
+        - generic: Copy this message
+    - article "Composer":
+      - generic: Composer
+      - status
+      - paragraph: I’ll try the exact option lists, including duplicates, in one update. If validation rejects them, I’ll leave all three fields unchanged and keep the form unpublished.
+      - generic: Edited form Composer QA - Visual and Content - 2026-11-03
+      - paragraph:
+        - text: Updated the proposal for
+        - link "QA draft":
+          - /url: /forms/XBMzK8
+          - generic: QA draft
+        - text: .
+        - strong: Validation accepted the duplicates exactly as requested.
+      - list:
+        - paragraph:
+          - strong: Set
+          - text: Favorite season to Spring, Spring, Summer.
+        - paragraph:
+          - strong: Set
+          - text: Shopping preference to Online, Online, In store.
+        - paragraph:
+          - strong: Set
+          - text: Interests to Books, Books, Music.
+        - paragraph:
+          - strong: Preserved
+          - text: identical labels and stored values for every option, existing property mappings, and unpublished status.
+      - paragraph:
+        - strong: Save the preview card to apply these changes to the existing draft.
+      - button
+      - generic: Composer QA - Visual and Content - 2026-11-03
+      - generic: Proposed signup form changes
+      - generic: Close preview
+      - button "Close preview":
+      - button "Copy this message":
+        - generic: Copy this message
+      - button "Give positive feedback":
+        - generic: Give positive feedback
+      - button "Give negative feedback":
+        - generic: Give negative feedback
+      - generic: 13 minutes ago
+    - article "You":
+      - generic: You
+      - paragraph:
+        - text: On QA draft XBMzK8, change Join the list button action to Go to URL with destination
+        - link "https://example.com/composer-qaOpen in new tab":
+          - /url: https://example.com/composer-qa
+          - generic: https://example.com/composer-qa
+          - img "Open in new tab"
+        - text: . Add an image block above the heading using an existing real image from this account’s library. If no usable asset is available, ask for one; do not invent an image URL. Preserve other content and keep unpublished.
+      - generic: 13 minutes ago
+      - button "Copy this message":
+        - generic: Copy this message
+    - article "Composer":
+      - generic: Composer
+      - status
+      - paragraph: I’ll set the button to go to your URL and find an existing library image to place above the heading, keeping the other content and unpublished status unchanged.
+      - button "Worked for 6s":
+        - generic: Worked for 6s
+      - generic: Edited form Composer QA - Visual and Content - 2026-11-03
+      - paragraph:
+        - text: Updated the proposal for your
+        - link "QA draft":
+          - /url: /forms/XBMzK8
+          - generic: QA draft
+        - text: .
+      - list:
+        - paragraph:
+          - strong: Changed
+          - text: “Join the list” to Go to URL, targeting
+          - code: https://example.com/composer-qa
+          - text: .
+        - paragraph:
+          - strong: Added
+          - text: the existing library image “Logo 3”, a Google wordmark, above the heading with descriptive alt text.
+        - paragraph:
+          - strong: Preserved
+          - text: other content and unpublished status.
+      - paragraph:
+        - strong: Validation now warns that the form collects information but cannot be submitted.
+        - text: The Success step remains unchanged, but the button now redirects instead of showing it.
+      - paragraph:
+        - strong: Save the preview card to apply these changes to the existing draft.
+      - button
+      - generic: Composer QA - Visual and Content - 2026-11-03
+      - generic: Proposed signup form changes
+      - generic: Close preview
+      - button "Close preview":
+      - button "Copy this message":
+        - generic: Copy this message
+      - button "Give positive feedback":
+        - generic: Give positive feedback
+      - button "Give negative feedback":
+        - generic: Give negative feedback
+      - generic: 13 minutes ago
+    - article "You":
+      - generic: You
+      - paragraph: On QA draft XBMzK8, change Join the list back to Submit form using the real existing Email List (resolve the entity, no null or invented list ID) and show Success afterward. Replace the added Logo 3 image with a different existing image from this account’s library, preserving its image block position. Keep unpublished and leave other content unchanged.
+      - generic: 11 minutes ago
+      - button "Copy this message":
+        - generic: Copy this message
+    - article "Composer":
+      - generic: Composer
+      - status
+      - paragraph: I’ll reconnect “Join the list” to the existing Email List and Success, then replace Logo 3 with another library image in the same position.
+      - button "Worked for 2s":
+        - generic: Worked for 2s
+      - generic: Edited form Composer QA - Visual and Content - 2026-11-03
+      - paragraph:
+        - text: Updated the proposal for your
+        - link "QA draft":
+          - /url: /forms/XBMzK8
+          - generic: QA draft
+        - text: .
+      - list:
+        - paragraph:
+          - strong: Restored
+          - text: “Join the list” to Submit form using the verified existing
+          - link "Email List":
+            - /url: /list/WATtbi
+            - generic: Email List
+          - text: ", followed by Success."
+        - paragraph:
+          - strong: Replaced
+          - text: Logo 3 with an existing library image of a woman holding a brown purse, preserving the image block’s position and styling.
+        - paragraph:
+          - strong: Preserved
+          - text: all other content and unpublished status.
+      - paragraph:
+        - text: The submission warning is cleared.
+        - strong: Save the preview card to apply these changes to the existing draft.
+      - button
+      - generic: Composer QA - Visual and Content - 2026-11-03
+      - generic: Proposed signup form changes
+      - generic: Close preview
+      - button "Close preview":
+      - button "Copy this message":
+        - generic: Copy this message
+      - button "Give positive feedback":
+        - generic: Give positive feedback
+      - button "Give negative feedback":
+        - generic: Give negative feedback
+      - generic: 11 minutes ago
+    - article "You":
+      - generic: You
+      - paragraph: On QA draft XBMzK8, add a new SMS Opt-in step between Email Opt-in and Success. Add a required US phone number field and Klaviyo’s native SMS disclosure block, using account-standard disclosure settings rather than writing custom consent copy. Its submit button should use the existing Text Messaging List and lead to Success. Connect the email step to SMS Opt-in. Keep unpublished.
+      - generic: 11 minutes ago
+      - button "Copy this message":
+        - generic: Copy this message
+    - article "Composer":
+      - generic: Composer
+      - status
+      - paragraph: I’ll check the native phone and disclosure settings, resolve the Text Messaging List, and add SMS Opt-in between Email Opt-in and Success while keeping the form unpublished.
+      - button "Worked for 1s":
+        - generic: Worked for 1s
+      - generic: Edited form Composer QA - Visual and Content - 2026-11-03
+      - paragraph:
+        - text: Updated the proposal for
+        - link "QA draft":
+          - /url: /forms/XBMzK8
+          - generic: QA draft
+        - text: .
+      - list:
+        - paragraph:
+          - strong: Added
+          - text: SMS Opt-in between Email Opt-in and Success.
+        - paragraph:
+          - strong: Added
+          - text: a required phone field with promotional SMS consent and Klaviyo’s native, account-default disclosure block.
+        - paragraph:
+          - strong: Connected
+          - text: its “Subscribe” button to the existing
+          - link "Text Messaging List":
+            - /url: /list/VruChs
+            - generic: Text Messaging List
+          - text: ", then Success."
+        - paragraph:
+          - strong: Preserved
+          - text: existing content and unpublished status.
+      - paragraph:
+        - strong: "Two limitations remain:"
+        - text: I couldn’t set or verify the phone field’s US default country through the available controls. The account-default disclosure also contains company-name and policy-link placeholders, and validation warns that the account’s SMS numbers could not be verified.
+      - paragraph:
+        - strong: Save the preview card to apply these changes.
+        - text: In Designer, select the phone field and set
+        - strong: Default country
+        - text: to
+        - strong: United States
+        - text: .
+      - button
+      - generic: Composer QA - Visual and Content - 2026-11-03
+      - generic: Proposed signup form changes
+      - generic: Close preview
+      - button "Close preview":
+      - button "Copy this message":
+        - generic: Copy this message
+      - button "Give positive feedback":
+        - generic: Give positive feedback
+      - button "Give negative feedback":
+        - generic: Give negative feedback
+      - generic: 11 minutes ago
+    - article "You":
+      - generic: You
+      - paragraph: On QA draft XBMzK8, enable Smart Opt-in for the phone number field on SMS Opt-in. Preserve native SMS disclosures, the existing Text Messaging List, and unpublished status. If account prerequisites prevent it, explain them without claiming it is enabled.
+      - generic: 10 minutes ago
+      - button "Copy this message":
+        - generic: Copy this message
+    - article "Composer":
+      - generic: Composer
+      - status
+      - paragraph: I’ll check whether Smart Opt-in is available for this account and form before making any changes.
+      - button "Worked for 1s":
+        - generic: Worked for 1s
+      - paragraph:
+        - strong: Smart Opt-in is not enabled.
+        - text: The account is marked as non-paying, so it does not meet the
+        - strong: paid SMS plan
+        - text: prerequisite. SMS is subscribed with 417 included credits, but included credits alone do not satisfy that requirement.
+        - link "Smart Opt-in requirements":
+          - /url: https://help.klaviyo.com/hc/en-us/articles/24743883751451
+          - generic: Smart Opt-in requirements
+      - paragraph:
+        - text: I made
+        - strong: no changes
+        - text: to the proposal. Native SMS disclosures, the existing
+        - link "Text Messaging List":
+          - /url: /list/VruChs
+          - generic: Text Messaging List
+        - text: ", and unpublished status are preserved."
+      - paragraph:
+        - text: After upgrading to a paid SMS plan and confirming SMS setup, you can
+        - button "enable Smart Opt-in on this QA form":
+          - generic: enable Smart Opt-in on this QA form
+        - text: .
+      - button "Copy this message":
+        - generic: Copy this message
+      - button "Give positive feedback":
+        - generic: Give positive feedback
+      - button "Give negative feedback":
+        - generic: Give negative feedback
+      - generic: 9 minutes ago
+    - article "You":
+      - generic: You
+      - paragraph: On QA draft XBMzK8, add an unchecked SMS marketing opt-in checkbox on SMS Opt-in using the native consent checkbox control, not a generic profile-property checkbox. Keep the phone field and native disclosure. It should collect marketing consent only when checked. Keep unpublished. Also correct the phone field consent type to the supported Promotional SMS value; Designer currently shows Text messaging Consent Type as Select an option.
+      - generic: 9 minutes ago
+      - button "Copy this message":
+        - generic: Copy this message
+    - article "Composer":
+      - generic: Composer
+      - status
+      - generic: Ran get form schema
+      - paragraph: I’ll check how the native SMS checkbox controls consent and whether I can correct the phone field’s unrecognized consent setting without changing the disclosure.
+      - button "Worked for 1s":
+        - generic: Worked for 1s
+      - paragraph:
+        - strong: These two consent behaviors conflict.
+        - text: A phone field set to promotional consent collects marketing consent on submission. Klaviyo’s native optional marketing checkbox is intended to pair with transactional consent, so marketing consent is collected only when checked.
+      - paragraph: I haven’t changed the proposal, rather than risk collecting consent when the checkbox is unchecked. The phone field, native disclosure, list connection, and unpublished status remain unchanged.
+      - paragraph: "Choose how to proceed:"
+      - list:
+        - paragraph:
+          - button "Use transactional consent with optional marketing checkbox":
+            - generic: Use transactional consent with optional marketing checkbox
+        - paragraph:
+          - button "Keep promotional consent collected on submission":
+            - generic: Keep promotional consent collected on submission
+      - paragraph: The Designer’s unrecognized consent value also remains unresolved; I haven’t claimed it corrected.
+      - button "Copy this message":
+        - generic: Copy this message
+      - button "Give positive feedback":
+        - generic: Give positive feedback
+      - button "Give negative feedback":
+        - generic: Give negative feedback
+      - generic: 9 minutes ago
+    - article "You":
+      - generic: You
+      - paragraph: Use transactional consent with the optional native marketing checkbox on QA draft XBMzK8. Keep the checkbox unchecked by default and preserve the native disclosure and unpublished status. Resolve the supported consent-type enum rather than retaining the unrecognized value.
+      - generic: 8 minutes ago
+      - button "Copy this message":
+        - generic: Copy this message
+    - article "Composer":
+      - generic: Composer
+      - status
+      - paragraph: I’ll set the phone field to transactional consent and add the optional native marketing checkbox, preserving the disclosure and unpublished status. I’ll check the returned configuration for the consent value.
+      - generic: Ran read form
+      - generic: Edited form Composer QA - Visual and Content - 2026-11-03
+      - paragraph:
+        - text: Updated the proposal for
+        - link "QA draft":
+          - /url: /forms/XBMzK8
+          - generic: QA draft
+        - text: .
+      - list:
+        - paragraph:
+          - strong: Set
+          - text: the phone field to the supported transactional consent value, replacing the previous unrecognized configuration.
+        - paragraph:
+          - strong: Added
+          - text: the optional native SMS marketing checkbox, unchecked by default, so marketing consent is collected only when checked.
+        - paragraph:
+          - strong: Preserved
+          - text: the native account-default disclosure,
+          - link "Text Messaging List":
+            - /url: /list/VruChs
+            - generic: Text Messaging List
+          - text: ", navigation, and unpublished status."
+      - paragraph:
+        - strong: "Validation flags two remaining issues:"
+        - text: the account’s SMS numbers could not be verified, and the disclosure needs review for transactional plus optional promotional consent. I left the disclosure unchanged as requested.
+      - paragraph:
+        - strong: Save the preview card to apply these changes to the existing draft.
+      - button
+      - generic: Composer QA - Visual and Content - 2026-11-03
+      - generic: Proposed signup form changes
+      - generic: Close preview
+      - button "Close preview":
+      - button "Copy this message":
+        - generic: Copy this message
+      - button "Give positive feedback":
+        - generic: Give positive feedback
+      - button "Give negative feedback":
+        - generic: Give negative feedback
+      - generic: 8 minutes ago
+    - article "You":
+      - generic: You
+      - paragraph: On QA draft XBMzK8, add a native age-gate step first, requiring visitors to be at least 21 using their date of birth. Passing should continue to Email Opt-in; failing must not continue and should show "You must be 21 or older". Keep Email Opt-in, SMS Opt-in, Success, and all their content intact. Keep unpublished.
+      - generic: 7 minutes ago
+      - button "Copy this message":
+        - generic: Copy this message
+    - article "You":
+      - generic: You
+      - paragraph: Please process the age-gate request above on XBMzK8, preserving the other steps and unpublished status.
+      - generic: 4 minutes ago
+      - button "Copy this message":
+        - generic: Copy this message
+    - article "Composer":
+      - generic: Composer
+      - status
+      - paragraph: I’ll check the native age-gate controls and account requirements, then add it first if supported without changing the existing steps.
+      - button "Worked for 4s":
+        - generic: Worked for 4s
+      - generic: Edited form Composer QA - Visual and Content - 2026-11-03
+      - paragraph:
+        - text: Updated the proposal for
+        - link "QA draft":
+          - /url: /forms/XBMzK8
+          - generic: QA draft
+        - text: .
+      - list:
+        - paragraph:
+          - strong: Added
+          - text: a first “Age verification” step with Klaviyo’s native, required date-of-birth age gate set to the US region.
+        - paragraph:
+          - strong: Set
+          - text: its invalid-entry message to “You must be 21 or older”.
+        - paragraph:
+          - strong: Connected
+          - text: Continue to Email Opt-in.
+        - paragraph:
+          - strong: Preserved
+          - text: Email Opt-in, SMS Opt-in, Success, their content, and unpublished status.
+      - paragraph:
+        - strong: The age gate is not fully verified.
+        - text: The available settings use region-based age rules rather than an explicit minimum-age setting, so I cannot confirm that this account enforces exactly 21. Validation also flags the new step as unable to submit, so I cannot claim that pass/fail navigation works correctly.
+      - paragraph:
+        - text: The proposal is ready for inspection,
+        - strong: not a verified working age gate
+        - text: .
+        - link "Review the age-gate setup requirements":
+          - /url: https://help.klaviyo.com/hc/en-us/articles/17252552814875
+          - generic: Review the age-gate setup requirements
+        - text: before saving it.
+      - button
+      - generic: Composer QA - Visual and Content - 2026-11-03
+      - generic: Proposed signup form changes
+      - generic: Close preview
+      - button "Close preview":
+      - button "Copy this message":
+        - generic: Copy this message
+      - button "Give positive feedback":
+        - generic: Give positive feedback
+      - button "Give negative feedback":
+        - generic: Give negative feedback
+      - generic: 4 minutes ago
+    - article "You":
+      - generic: You
+      - paragraph: "On QA draft XBMzK8, add the following native blocks on Success: a coupon block linked to a real existing coupon entity (look it up; do not fabricate IDs), a countdown timer ending January 1, 2020 (past-date validation test), a sign-up counter, and a Reviews block. Report each independently, including unavailable prerequisites and past-date warnings. Preserve other content and keep unpublished."
+      - generic: 3 minutes ago
+      - button "Copy this message":
+        - generic: Copy this message
+    - article "Composer":
+      - generic: Composer
+      - status
+      - paragraph: I’ll check each native block and look up an existing coupon, then add supported blocks to Success and report any prerequisites or validation warnings separately.
+      - button "Worked for 16s":
+        - generic: Worked for 16s
+      - generic: Form edit was rejected
+      - generic: Form edit was rejected
+      - generic: Form edit was rejected
+      - generic: Form edit was rejected
+      - generic: Edited form Composer QA - Visual and Content - 2026-11-03
+      - paragraph:
+        - text: Updated the proposal for
+        - link "QA draft":
+          - /url: /forms/XBMzK8
+          - generic: QA draft
+        - text: ", with these independent results:"
+      - list:
+        - paragraph:
+          - strong: "Coupon, not added:"
+          - text: Found the real existing Shopify coupon “15” (15% off), but adding its linked native block failed. No coupon ID was fabricated.
+        - paragraph:
+          - strong: "Countdown, not added:"
+          - text: Attempted an end time of
+          - strong: January 1, 2020, midnight America/New_York
+          - text: . The edit failed without a specific validation reason. This date is in the past, but I cannot attribute the failure to past-date validation.
+        - paragraph:
+          - strong: "Sign-up counter, added:"
+          - text: The returned proposal confirms a native counter for submissions in the past 30 days, shown after at least one submission.
+        - paragraph:
+          - strong: "Reviews, added but incomplete:"
+          - text: "Added the native block without inventing a review. Reviews is subscribed on this account, but no review is selected. Validation warns:"
+          - strong: “Select a review to display on this form before publishing.”
+      - paragraph:
+        - strong: Preserved
+        - text: all previous content and unpublished status. Existing age-step submission, SMS-number verification, and disclosure-review warnings remain.
+      - paragraph:
+        - text: Save the preview to apply the confirmed additions. You can then
+        - button "select a real review for the Reviews block":
+          - generic: select a real review for the Reviews block
+        - text: .
+      - button
+      - generic: Composer QA - Visual and Content - 2026-11-03
+      - generic: Proposed signup form changes
+      - generic: Close preview
+      - button "Close preview":
+      - button "Copy this message":
+        - generic: Copy this message
+      - button "Give positive feedback":
+        - generic: Give positive feedback
+      - button "Give negative feedback":
+        - generic: Give negative feedback
+      - generic: 3 minutes ago
+    - article "You":
+      - generic: You
+      - paragraph:
+        - text: "On QA XBMzK8 set form background #FFF4E6"
+        - text: "and overlay #183A59"
+        - text: "at 60% opacity; corner radius 18px, a 2px solid #183A59"
+        - text: "border, and drop shadow enabled black at 25%. Set form padding to 24px on all sides. Set shared input styles background #F0F7FF"
+        - text: ", border #2463A6"
+        - text: ", focus border #B33A3A"
+        - text: ", radius 8px and height 56px. Accessible form name: Newsletter signup and preferences. Focus outline color #D97706"
+        - text: ". Set close icon left, X color #183A59"
+        - text: ", size 28px, thickness 3px. Keep unpublished and preserve content."
+      - generic: 27 seconds ago
+      - button "Copy this message":
+        - generic: Copy this message
+    - article "Composer":
+      - generic: Composer
+      - status
+      - paragraph: I’ll update the form and shared input styles, check the close-icon placement setting, and preserve all content and unpublished status.
+      - generic: Found designer settings
+      - generic: Edited form Composer QA - Visual and Content - 2026-11-03
+      - paragraph:
+        - text: Updated the proposal for
+        - link "QA draft":
+          - /url: /forms/XBMzK8
+          - generic: QA draft
+        - text: .
+      - list:
+        - paragraph:
+          - strong: Set
+          - text: "the form background to #FFF4E6"
+          - text: "and overlay to #183A59"
+          - text: at 60% opacity.
+        - paragraph:
+          - strong: Applied
+          - text: "18px corners, a 2px solid #183A59"
+          - text: border, a black shadow at 25% opacity, and 24px padding on every side.
+        - paragraph:
+          - strong: Updated
+          - text: "shared inputs to #F0F7FF"
+          - text: "background, #2463A6"
+          - text: "border, #B33A3A"
+          - text: "focus border, #D97706"
+          - text: focus outline, 8px corners, and 56px height.
+        - paragraph:
+          - strong: Set
+          - text: the accessible name to “Newsletter signup and preferences”.
+        - paragraph:
+          - strong: Moved
+          - text: "the close icon left and set its color to #183A59"
+          - text: ", size to 28px, and thickness to 3px."
+        - paragraph:
+          - strong: Preserved
+          - text: all content and unpublished status.
+      - paragraph:
+        - text: Existing validation warnings remain unchanged.
+        - strong: Save the preview card to apply these styles to the existing draft.
+      - button
+      - generic: Composer QA - Visual and Content - 2026-11-03
+      - generic: Proposed signup form changes
+      - generic: Close preview
+      - button "Close preview":
+      - button "Copy this message":
+        - generic: Copy this message
+      - button "Give positive feedback":
+        - generic: Give positive feedback
+      - button "Give negative feedback":
+        - generic: Give negative feedback
+      - generic: 20 seconds ago
+- button "Scroll to the latest message.":
+  - generic: Scroll to the latest message.
+- button "Add an attachment.":
+- textbox "Work with Composer, @ to mention" [active]:
+  - paragraph: Work with Composer, @ to mention
+- button "Send this message." [disabled]:
+- generic: Add a file
+- generic: Drop your file here to add it to your message.
+- button:
+  - generic: Close Composer
+- slider "Resize the chat panel"
+- status

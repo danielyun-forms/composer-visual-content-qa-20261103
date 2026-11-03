@@ -1,0 +1,404 @@
+- generic [active]: Navigated to Form Proposal - Composer
+- link "Skip to content":
+  - /url: "#app-shell-main"
+  - generic: Skip to content
+- text: Composer is getting smarter. Your preview has
+- strong: 12 days and 9,536 credits remaining
+- text: .
+- button "Upgrade":
+  - generic: Upgrade
+- button "Dismiss":
+  - generic: Dismiss
+- alert
+- alert
+- complementary:
+  - button "Collapse" [expanded]:
+    - generic: Collapse
+  - link "Go to the dashboard.":
+    - /url: /dashboard
+  - generic: Search
+  - combobox "Search"
+  - generic: ⌘ K
+  - navigation:
+    - list:
+      - link "Get started":
+        - /url: /onboarding
+        - generic: Get started
+    - list:
+      - link "Home":
+        - /url: /dashboard
+        - generic: Home
+      - link "Composer":
+        - /url: /composer-agent
+        - generic: Composer
+      - link "Artifacts":
+        - /url: /composer-agent/artifacts
+        - generic: Artifacts
+    - list:
+      - link "Campaigns":
+        - /url: /omnicampaigns?appBarNav=true
+        - generic: Campaigns
+      - link "Flows":
+        - /url: /flows
+        - generic: Flows
+    - list:
+      - button "Website":
+        - generic: Website
+      - region:
+        - link:
+          - /url: /forms
+          - generic: Sign-up forms
+        - link:
+          - /url: /landing-pages
+          - generic: Landing pages
+        - link:
+          - /url: /customer-hub
+          - generic: Customer Hub
+        - link:
+          - /url: /reviews
+          - generic: Reviews
+      - button "Social":
+        - generic: Social
+      - region:
+        - link:
+          - /url: /social
+          - generic: Auto-replies
+        - link:
+          - /url: /social-content
+          - generic: Social content
+        - link:
+          - /url: /social-analytics
+          - generic: Performance
+          - status:
+            - generic: New
+      - button "Service":
+        - generic: Service
+      - region:
+        - link:
+          - /url: /service
+          - generic: Overview
+        - link:
+          - /url: /kagent
+          - generic: Customer Agent
+        - link:
+          - /url: /inbox
+          - generic: Helpdesk
+      - button "Audience" [expanded]:
+        - generic: Audience
+      - region "Audience":
+        - link "Growth tools":
+          - /url: /growth-tools
+          - generic: Growth tools
+        - link "Lists & segments":
+          - /url: /lists
+          - generic: Lists & segments
+        - link "Profiles":
+          - /url: /people
+          - generic: Profiles
+        - link "Geofences":
+          - /url: /geofences
+          - generic: Geofences
+        - link "Locations":
+          - /url: /locations
+          - generic: Locations
+        - link "Live Events":
+          - /url: /live-events
+          - generic: Live Events
+      - button "Content":
+        - generic: Content
+      - region:
+        - link:
+          - /url: /templates/landing
+          - generic: Templates
+        - link:
+          - /url: /templates/saved-content
+          - generic: Universal content
+        - link:
+          - /url: /catalogs
+          - generic: Products
+        - link:
+          - /url: /brand-library/brand
+          - generic: Media & brand
+        - link:
+          - /url: /coupons
+          - generic: Coupons
+        - link:
+          - /url: /objects
+          - generic: Objects
+        - link:
+          - /url: /automations
+          - generic: Automations
+      - button "Analytics":
+        - generic: Analytics
+      - region:
+        - link:
+          - /url: /analytics/dashboards
+          - generic: Dashboards
+        - link:
+          - /url: /experiments
+          - generic: Experiments
+        - link:
+          - /url: /analytics/metrics
+          - generic: Metrics
+        - link:
+          - /url: /analytics/benchmarks
+          - generic: Benchmarks
+        - link:
+          - /url: /analytics/deliverability
+          - generic: Deliverability
+        - link:
+          - /url: /analytics/reports
+          - generic: Custom reports
+    - button "Advanced" [expanded]:
+      - generic: Advanced
+    - list:
+      - link "Personalization":
+        - /url: /marketing-analytics
+        - generic: Personalization
+    - button "Grow with Klaviyo" [expanded]:
+      - generic: Grow with Klaviyo
+    - list:
+      - link "BFCM 2026":
+        - /url: /bfcm-hub
+        - generic: BFCM 2026
+  - link "Integrations":
+    - /url: /integrations
+    - generic: Integrations
+  - button "Get started for $1":
+    - generic: Get started for $1
+  - button "Products & usage":
+    - generic: Products & usage
+  - button "7 unread notifications":
+    - generic: Notifications
+    - generic: "7"
+  - button "Support":
+    - generic: Support
+  - button "Account Menu":
+    - generic: Da
+    - strong: Daniel Yun Test Account
+  - slider "Resize or hide the navigation sidebar"
+- main:
+  - navigation "Breadcrumb":
+    - list:
+      - link "Signup forms":
+        - /url: /forms
+      - listitem: /
+      - link "Composer QA - Visual and Content - 2026-11-03":
+        - /url: /forms/XBMzK8
+  - generic: Proposal
+  - button "Close preview":
+    - generic: Close
+  - button "Update form":
+    - generic: Update form
+  - heading "Form details" [level=2]
+  - term:
+    - generic: Name
+  - definition: Composer QA - Visual and Content - 2026-11-03
+  - term:
+    - generic: Form type
+  - definition: Popup
+  - heading "Targeting" [level=2]
+  - heading "Audience" [level=2]
+  - term:
+    - generic: Show to
+  - definition: Shown to all audience members
+  - heading "URLs" [level=2]
+  - term:
+    - generic: Show on
+  - definition: All pages
+  - heading "Location" [level=2]
+  - term:
+    - generic: Locations
+  - definition: Everywhere
+  - heading "Display" [level=2]
+  - heading "Display priority" [level=2]
+  - term:
+    - generic: Priority
+  - definition: Medium (default)
+  - heading "Timing" [level=2]
+  - term:
+    - generic: Show form
+  - definition: Immediately
+  - heading "Frequency" [level=2]
+  - term:
+    - generic: If visitor closes form, show again after
+  - definition: 90 days
+  - term:
+    - generic: After submission
+  - definition: Can be shown again after the form is submitted
+  - heading "Devices" [level=2]
+  - term:
+    - generic: Show on
+  - definition: Desktop and mobile
+  - term:
+    - generic: Click outside form to close
+  - definition: On desktop only
+  - status:
+    - text: This is a
+    - strong: read-only
+    - text: proposal. Nothing changes on the form until you update it.
+  - group "Step":
+    - button "Email Opt-in":
+      - generic: Email Opt-in
+    - button "Success":
+      - generic: Success
+  - generic: Device to preview
+  - group "Device to preview":
+    - generic: Device to preview
+    - radiogroup:
+      - radio "Desktop" [checked]
+      - generic: Desktop
+      - radio "Mobile"
+      - generic: Mobile
+  - dialog "POPUP Form":
+    - button "Close dialog":
+    - heading "Fresh finds, first access" [level=1]
+    - paragraph:
+      - text: Get weekly updates and
+      - strong: exclusive offers
+      - text: .
+    - generic: Email
+    - textbox "Email"
+    - button "Join the list"
+    - alert
+- button "Composer QA popup signup form draft":
+  - generic: Composer QA popup signup form draft
+- generic: "1"
+- generic: 1 unread conversation
+- button "Customize":
+  - generic: Customize
+- button "Start a new chat":
+  - generic: Start a new chat
+- button "Expand":
+  - generic: Expand
+- button "Close":
+  - generic: Close
+- region "Messages":
+  - paragraph:
+    - text: Composer is an AI assistant. By sending a message, you consent to this chat being recorded and processed by us and our service providers.
+    - link "Privacy Notice":
+      - /url: https://privacy.klaviyo.com/policies/?name=klaviyo-privacy-policy
+  - log:
+    - article "You":
+      - generic: You
+      - paragraph: Create a new draft popup signup form named "Composer QA - Visual and Content - 2026-11-03" in Daniel Yun Test Account (WeAFEE). Use the existing Email List, collect email only with a required email input, heading "Join our newsletter", body "Get news and offers.", and button "Subscribe". Include one email opt-in step and one success step. Show on all devices immediately. Keep it unpublished. Only create this new QA form and leave existing forms unchanged.
+      - generic: 2 minutes ago
+      - button "Copy this message":
+        - generic: Copy this message
+    - article "Composer":
+      - generic: Composer
+      - status
+      - paragraph: I’ll create the QA popup with the exact copy and settings, verify it stays unpublished, and leave existing forms unchanged.
+      - button "Worked for 43s":
+        - generic: Worked for 43s
+      - generic: Opened form preview Composer QA - Visual and Content - 2026-11-03
+      - paragraph:
+        - text: I started from
+        - strong: Subscribe for updates
+        - text: ", an email popup template for desktop and mobile. I’m removing its optional name field and replacing the template copy with your exact wording."
+      - button "Worked for 1s":
+        - generic: Worked for 1s
+      - generic: Edited form Composer QA - Visual and Content - 2026-11-03
+      - paragraph:
+        - text: Prepared
+        - strong: Composer QA - Visual and Content - 2026-11-03
+        - text: as a new, unpublished popup preview in Daniel Yun Test Account.
+      - list:
+        - paragraph:
+          - strong: Connected
+          - text: submissions to the existing
+          - link "Email List":
+            - /url: /list/WATtbi
+            - generic: Email List
+          - text: .
+        - paragraph:
+          - strong: Configured
+          - text: email-only collection with a required email input.
+        - paragraph:
+          - strong: Set
+          - text: heading “Join our newsletter”, body “Get news and offers.”, and button “Subscribe”.
+        - paragraph:
+          - strong: Included
+          - text: one Email Opt-in step and one Success step.
+        - paragraph:
+          - strong: Configured
+          - text: immediate display on desktop and mobile.
+        - paragraph:
+          - strong: Left
+          - text: existing forms unchanged.
+      - paragraph:
+        - strong: Save the preview card to create the draft in your account.
+        - text: It has not been published.
+      - button
+      - generic: Composer QA - Visual and Content - 2026-11-03
+      - generic: Proposed signup form changes
+      - generic: Close preview
+      - button "Close preview":
+      - button "Copy this message":
+        - generic: Copy this message
+      - button "Give positive feedback":
+        - generic: Give positive feedback
+      - button "Give negative feedback":
+        - generic: Give negative feedback
+      - generic: 2 minutes ago
+    - article "You":
+      - generic: You
+      - paragraph:
+        - text: "On the saved QA draft XBMzK8, change heading to \"Fresh finds, first access\". Change the body to \"Get weekly updates and exclusive offers.\" with \"exclusive offers\" bold. Change only the heading font to Georgia, color #183A59"
+        - text: ", size 32px, and left alignment. Change the button label to \"Join the list\". Preserve all other content/settings and keep unpublished."
+      - generic: 27 seconds ago
+      - button "Copy this message":
+        - generic: Copy this message
+    - article "Composer":
+      - generic: Composer
+      - status
+      - paragraph: I’ll update the saved QA draft’s copy and heading style, preserve everything else, and keep it unpublished.
+      - generic: Ran read form
+      - generic: Edited form Composer QA - Visual and Content - 2026-11-03
+      - paragraph:
+        - text: Updated the preview for your
+        - link "saved QA draft":
+          - /url: /forms/XBMzK8
+          - generic: saved QA draft
+        - text: .
+      - list:
+        - paragraph:
+          - strong: Changed
+          - text: "the heading to “Fresh finds, first access”, using Georgia, 32px, #183A59"
+          - text: ", and left alignment."
+        - paragraph:
+          - strong: Changed
+          - text: the body to “Get weekly updates and
+          - strong: exclusive offers
+          - text: .”, preserving its other styling.
+        - paragraph:
+          - strong: Changed
+          - text: the button label to “Join the list”.
+        - paragraph:
+          - strong: Preserved
+          - text: all other content and settings, including unpublished status.
+      - paragraph:
+        - strong: Save the preview card to apply these changes to the existing draft.
+      - button
+      - generic: Composer QA - Visual and Content - 2026-11-03
+      - generic: Proposed signup form changes
+      - generic: Close preview
+      - button "Close preview":
+      - button "Copy this message":
+        - generic: Copy this message
+      - button "Give positive feedback":
+        - generic: Give positive feedback
+      - button "Give negative feedback":
+        - generic: Give negative feedback
+      - generic: 23 seconds ago
+- button "Scroll to the latest message.":
+  - generic: Scroll to the latest message.
+- button "Add an attachment.":
+- textbox "Work with Composer, @ to mention":
+  - paragraph: Work with Composer, @ to mention
+- button "Send this message." [disabled]:
+- generic: Add a file
+- generic: Drop your file here to add it to your message.
+- button:
+  - generic: Close Composer
+- slider "Resize the chat panel"

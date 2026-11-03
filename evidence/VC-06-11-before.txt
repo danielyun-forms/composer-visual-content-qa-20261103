@@ -1,0 +1,239 @@
+- link "Skip to content":
+  - /url: "#app-shell-main"
+  - generic: Skip to content
+- text: Composer is getting smarter. Your preview has
+- strong: 12 days and 9,500 credits remaining
+- text: .
+- button "Upgrade":
+  - generic: Upgrade
+- button "Dismiss":
+  - generic: Dismiss
+- alert
+- alert
+- banner:
+  - button "Exit":
+    - generic: Exit
+  - button "Composer QA - Visual and Content - 2026-11-03 - Click to rename":
+    - generic: Composer QA - Visual and Content - 2026-11-03
+  - generic: Switch form
+  - combobox "Switch form":
+    - generic: Switch form
+  - generic: Composer QA - Visual and Content - 2026-11-03
+  - textbox "Composer QA - Visual and Content - 2026-11-03"
+  - generic: Publish changes
+  - combobox "Publish changes":
+    - generic: Draft
+  - button "What's new":
+    - generic: What's new
+  - button "Alerts":
+    - generic: Alerts
+  - button "Comments":
+    - generic: Comments
+  - button "Preview on website":
+    - generic: Preview on website
+  - button "Publish or schedule":
+    - generic: Publish or schedule
+  - button "Close Composer":
+    - generic: Close Composer
+- button "Add content":
+  - generic: Add content
+- button "Edit styles":
+  - generic: Edit styles
+- button "Targeting & behavior":
+  - generic: Targeting & behavior
+- button "Create A/B test":
+  - generic: Create A/B test
+- button "Undo" [disabled]:
+  - generic: Undo
+- button "Redo" [disabled]:
+  - generic: Redo
+- button "Teaser":
+  - generic: Teaser
+- button "Move step Email Opt-in Options":
+  - button "Move step":
+    - generic: Move step
+  - button "Email Opt-in":
+    - generic: Email Opt-in
+  - button "Options":
+    - generic: Options
+- button "Step":
+  - generic: Step
+- button "Success":
+  - generic: Success
+- generic: mobile or desktop
+- group "mobile or desktop":
+  - generic: mobile or desktop
+  - radiogroup:
+    - radio "Both" [checked]
+    - generic: Both
+    - radio "Desktop"
+    - generic: Desktop
+    - radio "Mobile"
+    - generic: Mobile
+- heading "Desktop" [level=6]
+- dialog "POPUP Form":
+  - button "Close dialog":
+  - heading "Join our newsletter" [level=1]
+  - paragraph: Get news and offers.
+  - generic: Email
+  - textbox "Email Email":
+    - /placeholder: Email
+  - button "Subscribe"
+  - alert
+- heading "Mobile" [level=6]
+- dialog "POPUP Form":
+  - button "Close dialog":
+  - heading "Join our newsletter" [level=1]
+  - paragraph: Get news and offers.
+  - generic: Email
+  - textbox "Email"
+  - button "Subscribe"
+  - alert
+- button "Zoom in":
+  - generic: Zoom in
+- generic: 80%
+- button "Zoom out":
+  - generic: Zoom out
+- separator
+- button "Reset position":
+  - generic: Reset position
+- button "Composer QA popup signup form draft":
+  - generic: Composer QA popup signup form draft
+- generic: "1"
+- generic: 1 unread conversation
+- button "Customize":
+  - generic: Customize
+- button "Start a new chat":
+  - generic: Start a new chat
+- button "Expand":
+  - generic: Expand
+- button "Close":
+  - generic: Close
+- region "Messages":
+  - paragraph:
+    - text: Composer is an AI assistant. By sending a message, you consent to this chat being recorded and processed by us and our service providers.
+    - link "Privacy Notice":
+      - /url: https://privacy.klaviyo.com/policies/?name=klaviyo-privacy-policy
+  - log:
+    - article "You":
+      - generic: You
+      - paragraph: Create a new draft popup signup form named "Composer QA - Visual and Content - 2026-11-03" in Daniel Yun Test Account (WeAFEE). Use the existing Email List, collect email only with a required email input, heading "Join our newsletter", body "Get news and offers.", and button "Subscribe". Include one email opt-in step and one success step. Show on all devices immediately. Keep it unpublished. Only create this new QA form and leave existing forms unchanged.
+      - generic: 2 minutes ago
+      - button "Copy this message":
+        - generic: Copy this message
+    - article "Composer":
+      - generic: Composer
+      - status
+      - paragraph: I’ll create the QA popup with the exact copy and settings, verify it stays unpublished, and leave existing forms unchanged.
+      - button "Worked for 43s":
+        - generic: Worked for 43s
+      - generic: Opened form preview Composer QA - Visual and Content - 2026-11-03
+      - paragraph:
+        - text: I started from
+        - strong: Subscribe for updates
+        - text: ", an email popup template for desktop and mobile. I’m removing its optional name field and replacing the template copy with your exact wording."
+      - button "Worked for 1s":
+        - generic: Worked for 1s
+      - generic: Edited form Composer QA - Visual and Content - 2026-11-03
+      - paragraph:
+        - text: Prepared
+        - strong: Composer QA - Visual and Content - 2026-11-03
+        - text: as a new, unpublished popup preview in Daniel Yun Test Account.
+      - list:
+        - paragraph:
+          - strong: Connected
+          - text: submissions to the existing
+          - link "Email List":
+            - /url: /list/WATtbi
+            - generic: Email List
+          - text: .
+        - paragraph:
+          - strong: Configured
+          - text: email-only collection with a required email input.
+        - paragraph:
+          - strong: Set
+          - text: heading “Join our newsletter”, body “Get news and offers.”, and button “Subscribe”.
+        - paragraph:
+          - strong: Included
+          - text: one Email Opt-in step and one Success step.
+        - paragraph:
+          - strong: Configured
+          - text: immediate display on desktop and mobile.
+        - paragraph:
+          - strong: Left
+          - text: existing forms unchanged.
+      - paragraph:
+        - strong: Save the preview card to create the draft in your account.
+        - text: It has not been published.
+      - button
+      - generic: Composer QA - Visual and Content - 2026-11-03
+      - generic: Proposed signup form changes
+      - generic: Open preview
+      - button "Open preview":
+      - button "Copy this message":
+        - generic: Copy this message
+      - button "Give positive feedback":
+        - generic: Give positive feedback
+      - button "Give negative feedback":
+        - generic: Give negative feedback
+      - generic: 2 minutes ago
+    - article "You":
+      - generic: You
+      - paragraph:
+        - text: "On the saved QA draft XBMzK8, change heading to \"Fresh finds, first access\". Change the body to \"Get weekly updates and exclusive offers.\" with \"exclusive offers\" bold. Change only the heading font to Georgia, color #183A59"
+        - text: ", size 32px, and left alignment. Change the button label to \"Join the list\". Preserve all other content/settings and keep unpublished."
+      - generic: 18 seconds ago
+      - button "Copy this message":
+        - generic: Copy this message
+    - article "Composer":
+      - generic: Composer
+      - status
+      - paragraph: I’ll update the saved QA draft’s copy and heading style, preserve everything else, and keep it unpublished.
+      - generic: Ran read form
+      - generic: Edited form Composer QA - Visual and Content - 2026-11-03
+      - paragraph:
+        - text: Updated the preview for your
+        - link "saved QA draft":
+          - /url: /forms/XBMzK8
+          - generic: saved QA draft
+        - text: .
+      - list:
+        - paragraph:
+          - strong: Changed
+          - text: "the heading to “Fresh finds, first access”, using Georgia, 32px, #183A59"
+          - text: ", and left alignment."
+        - paragraph:
+          - strong: Changed
+          - text: the body to “Get weekly updates and
+          - strong: exclusive offers
+          - text: .”, preserving its other styling.
+        - paragraph:
+          - strong: Changed
+          - text: the button label to “Join the list”.
+        - paragraph:
+          - strong: Preserved
+          - text: all other content and settings, including unpublished status.
+      - paragraph:
+        - strong: Save the preview card to apply these changes to the existing draft.
+      - button
+      - generic: Composer QA - Visual and Content - 2026-11-03
+      - generic: Proposed signup form changes
+      - generic: Open preview
+      - button "Open preview":
+      - button "Copy this message":
+        - generic: Copy this message
+      - button "Give positive feedback":
+        - generic: Give positive feedback
+      - button "Give negative feedback":
+        - generic: Give negative feedback
+      - generic: 14 seconds ago
+- button "Scroll to the latest message.":
+  - generic: Scroll to the latest message.
+- button "Add an attachment.":
+- textbox "Work with Composer, @ to mention":
+  - paragraph: Work with Composer, @ to mention
+- button "Send this message." [disabled]:
+- generic: Add a file
+- generic: Drop your file here to add it to your message.
+- dialog
+- slider "Resize the chat panel"

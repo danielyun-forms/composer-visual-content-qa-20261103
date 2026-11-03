@@ -1,0 +1,843 @@
+- link "Skip to content":
+  - /url: "#app-shell-main"
+  - generic: Skip to content
+- text: Composer is getting smarter. Your preview has
+- strong: 12 days and 9,293 credits remaining
+- text: .
+- button "Upgrade":
+  - generic: Upgrade
+- button "Dismiss":
+  - generic: Dismiss
+- alert
+- alert
+- banner:
+  - button "Exit":
+    - generic: Exit
+  - button "Composer QA - Visual and Content - 2026-11-03 - Click to rename":
+    - generic: Composer QA - Visual and Content - 2026-11-03
+  - generic: Switch form
+  - combobox "Switch form":
+    - generic: Switch form
+  - generic: Composer QA - Visual and Content - 2026-11-03
+  - textbox "Composer QA - Visual and Content - 2026-11-03"
+  - generic: Publish changes
+  - combobox "Publish changes":
+    - generic: Draft
+  - button "What's new":
+    - generic: What's new
+  - button "Alerts":
+    - generic: Alerts
+  - button "Comments":
+    - generic: Comments
+  - button "Preview on website":
+    - generic: Preview on website
+  - button "Publish or schedule":
+    - generic: Publish or schedule
+  - button "Open Composer":
+    - generic: Open Composer
+- button "Add content":
+  - generic: Add content
+- button "Edit styles":
+  - generic: Edit styles
+- button "Targeting & behavior":
+  - generic: Targeting & behavior
+- button "Create A/B test":
+  - generic: Create A/B test
+- button "Back":
+  - generic: Back
+- heading "Button" [level=1]
+- button "Unlink":
+  - generic: Unlink
+- separator
+- region "Button click action":
+  - heading "Button click action" [level=2]
+  - generic: Action
+  - combobox "Action":
+    - generic: Submit form
+  - generic: List to Submit
+  - combobox "List to Submit":
+    - generic: Email List
+  - generic: After Submit
+  - combobox "After Submit":
+    - generic: Show next step
+- region "Submit hidden fields":
+  - heading "Submit hidden fields" [level=2]
+  - generic: Profile property
+  - generic: Value
+  - button "Add a property":
+    - generic: Add a property
+- region "Button text":
+  - heading "Button text" [level=2]
+  - generic: Text
+  - textbox "Text": Join the list
+  - group "Text format":
+    - generic: Font Family Dropdown
+    - combobox "Font Family Dropdown":
+      - generic: Roboto Bold 700
+    - generic: Font size
+    - textbox "Font size": "20"
+    - generic: px
+    - button "Bold":
+      - generic: Bold
+    - button "Italic":
+      - generic: Italic
+    - button "Underline":
+      - generic: Underline
+    - button "Strikethrough":
+      - generic: Strikethrough
+  - generic: Letter spacing
+  - textbox "Letter spacing": "0"
+  - generic: px
+  - generic: Label color
+  - combobox:
+    - generic: "#"
+    - textbox "Label color": FFFFFF
+- region "Button style":
+  - heading "Button style" [level=2]
+  - generic: Background Color
+  - combobox:
+    - generic: "#"
+    - textbox "Background Color": 3D4BC7
+  - generic: Corner radius
+  - textbox "Corner radius": "6"
+  - generic: px
+  - generic: Width
+  - group "Width":
+    - generic: Width
+    - radiogroup:
+      - radio "Fit to text"
+      - generic: Fit to text
+      - radio "Full width" [checked]
+      - generic: Full width
+  - group "Padding":
+    - generic: Vertical padding
+    - textbox "Vertical padding": "17"
+    - generic: px
+    - generic: Horizontal padding
+    - textbox "Horizontal padding": "10"
+    - generic: px
+    - button "Individual padding":
+      - generic: Individual padding
+- region "Button border":
+  - heading "Button border" [level=2]
+  - button "Add button border":
+    - generic: Add button border
+- region "Hover color":
+  - heading "Hover color" [level=2]
+  - button "Remove hover color" [expanded]:
+    - generic: Remove hover color
+  - generic: Hover color
+  - generic: Hover color
+  - combobox:
+    - generic: "#"
+    - textbox "Hover color": 303B43
+  - generic: Hover text color
+  - generic: Hover text color
+  - combobox:
+    - generic: "#"
+    - textbox "Hover text color": FFFFFF
+- region "Drop shadow":
+  - heading "Drop shadow" [level=2]
+  - button "Add drop shadow":
+    - generic: Add drop shadow
+- region "Block background color":
+  - heading "Block background color" [level=2]
+  - button "Add block background color":
+    - generic: Add block background color
+- region "Block padding":
+  - heading "Block padding" [level=2]
+  - group "Padding":
+    - generic: Top padding
+    - textbox "Top padding": "0"
+    - generic: px
+    - generic: Left padding
+    - textbox "Left padding": "6"
+    - generic: px
+    - button "Individual padding":
+      - generic: Individual padding
+    - generic: Bottom padding
+    - textbox "Bottom padding": "10"
+    - generic: px
+    - generic: Right padding
+    - textbox "Right padding": "6"
+    - generic: px
+- region "Animation":
+  - heading "Animation" [level=2]
+  - button "Add animation":
+    - generic: Add animation
+- region "Visibility":
+  - heading "Visibility" [level=2]
+  - generic: Devices
+  - group "Devices":
+    - generic: Devices
+    - radiogroup:
+      - radio "All Devices" [checked]
+      - generic: All Devices
+      - radio "Desktop"
+      - generic: Desktop
+      - radio "Mobile"
+      - generic: Mobile
+- button "Undo" [disabled]:
+  - generic: Undo
+- button "Redo" [disabled]:
+  - generic: Redo
+- button "Teaser":
+  - generic: Teaser
+- button "Move step Email Opt-in Options":
+  - button "Move step":
+    - generic: Move step
+  - button "Email Opt-in":
+    - generic: Email Opt-in
+  - button "Options":
+    - generic: Options
+- button "Step":
+  - generic: Step
+- button "Success":
+  - generic: Success
+- generic: mobile or desktop
+- group "mobile or desktop":
+  - generic: mobile or desktop
+  - radiogroup:
+    - radio "Both" [checked]
+    - generic: Both
+    - radio "Desktop"
+    - generic: Desktop
+    - radio "Mobile"
+    - generic: Mobile
+- heading "Desktop" [level=6]
+- dialog "POPUP Form":
+  - button "Close dialog":
+  - img "Woman standing in a hallway holding a brown purse"
+  - heading "Fresh finds, first access" [level=1]
+  - paragraph:
+    - text: Get weekly updates and
+    - strong: exclusive offers
+    - text: .
+  - generic: Email
+  - textbox "Email Email":
+    - /placeholder: Email
+  - generic: Favorite color
+  - textbox "Favorite color Favorite color":
+    - /placeholder: Favorite color
+  - generic: Favorite season
+  - combobox "Favorite season":
+    - listbox "Favorite season"
+  - button "Show Options":
+  - group "Shopping preference":
+    - generic: Shopping preference
+    - radiogroup:
+      - radio "Online"
+      - generic: Online
+      - radio "Online"
+      - generic: Online
+      - radio "In store"
+      - generic: In store
+  - group "Interests":
+    - generic: Interests
+    - checkbox "Books"
+    - generic: Books
+    - checkbox "Books"
+    - generic: Books
+    - checkbox "Music"
+    - generic: Music
+  - generic: Birthday
+  - textbox "Birthday Birthday":
+    - /placeholder: MM/DD/YYYY
+  - menu:
+    - menuitem "Save as universal content":
+      - generic: Save as universal content
+    - menuitem "Unlink":
+      - generic: Unlink
+    - menuitem "Clone":
+      - generic: Clone
+    - button "Add comment":
+      - generic: Add comment
+    - menuitem "Delete":
+      - generic: Delete
+  - button "Join the list"
+  - alert
+- heading "Mobile" [level=6]
+- dialog "POPUP Form":
+  - button "Close dialog":
+  - img "Woman standing in a hallway holding a brown purse"
+  - heading "Fresh finds, first access" [level=1]
+  - paragraph:
+    - text: Get weekly updates and
+    - strong: exclusive offers
+    - text: .
+  - generic: Email
+  - textbox "Email"
+  - generic: Favorite color
+  - textbox "Favorite color"
+  - generic: Favorite season
+  - combobox "Favorite season":
+    - listbox "Favorite season"
+  - button "Show Options":
+  - group "Shopping preference":
+    - generic: Shopping preference
+    - radiogroup:
+      - radio "Online"
+      - generic: Online
+      - radio "Online"
+      - generic: Online
+      - radio "In store"
+      - generic: In store
+  - group "Interests":
+    - generic: Interests
+    - checkbox "Books"
+    - generic: Books
+    - checkbox "Books"
+    - generic: Books
+    - checkbox "Music"
+    - generic: Music
+  - generic: Birthday
+  - textbox "MM/DD/YYYY"
+  - menu:
+    - menuitem "Save as universal content":
+      - generic: Save as universal content
+    - menuitem "Unlink":
+      - generic: Unlink
+    - menuitem "Clone":
+      - generic: Clone
+    - button "Add comment":
+      - generic: Add comment
+    - menuitem "Delete":
+      - generic: Delete
+  - button "Join the list"
+  - alert
+- button "Zoom in":
+  - generic: Zoom in
+- generic: 80%
+- button "Zoom out":
+  - generic: Zoom out
+- separator
+- button "Reset position":
+  - generic: Reset position
+- generic: Button
+- generic: Button
+- button:
+  - generic: Composer QA popup signup form draft
+- generic: "2"
+- generic: 2 unread conversations
+- button:
+  - generic: Customize
+- button:
+  - generic: Start a new chat
+- button:
+  - generic: Expand
+- button:
+  - generic: Close
+- region:
+  - paragraph:
+    - text: Composer is an AI assistant. By sending a message, you consent to this chat being recorded and processed by us and our service providers.
+    - link:
+      - /url: https://privacy.klaviyo.com/policies/?name=klaviyo-privacy-policy
+      - text: Privacy Notice
+  - log:
+    - article:
+      - generic: You
+      - paragraph: On QA draft XBMzK8, add a new middle step named "Preferences" between Email Opt-in and Success. Include heading "Choose your interests" and a Continue button leading to Success. Make the Email Opt-in submit button lead to Preferences. Preserve current copy and keep unpublished.
+      - generic: 12 minutes ago
+      - button:
+        - generic: Copy this message
+    - article:
+      - generic: Composer
+      - status
+      - paragraph: I’ll add Preferences between Email Opt-in and Success, connect the buttons in order, and preserve the current copy and unpublished status.
+      - button:
+        - generic: Worked for 1s
+      - generic: Edited form Composer QA - Visual and Content - 2026-11-03
+      - paragraph:
+        - text: Updated the preview for your
+        - link:
+          - /url: /forms/XBMzK8
+          - generic: QA draft
+        - text: .
+      - list:
+        - paragraph:
+          - strong: Added
+          - text: a middle step named “Preferences” with heading “Choose your interests” and a “Continue” button.
+        - paragraph:
+          - strong: Connected
+          - text: "the sequence: Email Opt-in → Preferences → Success."
+        - paragraph:
+          - strong: Preserved
+          - text: current copy, styling, and all other settings.
+        - paragraph:
+          - strong: Kept
+          - text: the form unpublished.
+      - paragraph:
+        - strong: Save the preview card to apply these changes to the existing draft.
+      - button
+      - generic: Composer QA - Visual and Content - 2026-11-03
+      - generic: Proposed signup form changes
+      - generic: Open preview
+      - button:
+      - button:
+        - generic: Copy this message
+      - button:
+        - generic: Give positive feedback
+      - button:
+        - generic: Give negative feedback
+      - generic: 12 minutes ago
+    - article:
+      - generic: You
+      - paragraph: On QA draft XBMzK8, rename the middle Preferences step to "Your preferences" and move it before Email Opt-in. The navigation order must become Your preferences → Email Opt-in → Success. Keep each step’s content, preserve submission to the existing Email List, and keep unpublished.
+      - generic: 11 minutes ago
+      - button:
+        - generic: Copy this message
+    - article:
+      - generic: Composer
+      - status
+      - paragraph: I’ll rename and move the Preferences step, keeping its content intact and preserving Email List submission and unpublished status.
+      - generic: Ran read form
+      - generic: Edited form Composer QA - Visual and Content - 2026-11-03
+      - paragraph:
+        - text: Updated the preview for your
+        - link:
+          - /url: /forms/XBMzK8
+          - generic: QA draft
+        - text: .
+      - list:
+        - paragraph:
+          - strong: Renamed
+          - text: “Preferences” to “Your preferences”.
+        - paragraph:
+          - strong: Moved
+          - text: it first, making navigation
+          - strong: Your preferences → Email Opt-in → Success
+          - text: .
+        - paragraph:
+          - strong: Preserved
+          - text: each step’s content and submission to the existing
+          - link:
+            - /url: /list/WATtbi
+            - generic: Email List
+          - text: .
+        - paragraph:
+          - strong: Kept
+          - text: the form unpublished.
+      - paragraph:
+        - strong: Save the preview card to apply these changes to the existing draft.
+      - button
+      - generic: Composer QA - Visual and Content - 2026-11-03
+      - generic: Proposed signup form changes
+      - generic: Open preview
+      - button:
+      - button:
+        - generic: Copy this message
+      - button:
+        - generic: Give positive feedback
+      - button:
+        - generic: Give negative feedback
+      - generic: 11 minutes ago
+    - article:
+      - generic: You
+      - paragraph: On QA draft XBMzK8, move Your preferences back between Email Opt-in and Success, then delete that middle Your preferences step. Preserve Email Opt-in and Success and make the email submit action lead directly to Success. Keep the existing content and unpublished status.
+      - generic: 9 minutes ago
+      - button:
+        - generic: Copy this message
+    - article:
+      - generic: Composer
+      - status
+      - paragraph: I’ll move Your preferences back to the middle, remove it, and keep Email Opt-in leading directly to Success without changing their content or unpublished status.
+      - generic: Ran read form
+      - generic: Edited form Composer QA - Visual and Content - 2026-11-03
+      - paragraph:
+        - text: Updated the preview for your
+        - link:
+          - /url: /forms/XBMzK8
+          - generic: QA draft
+        - text: .
+      - list:
+        - paragraph:
+          - strong: Moved
+          - text: Your preferences to the middle, then
+          - strong: deleted
+          - text: it.
+        - paragraph:
+          - strong: Preserved
+          - text: Email Opt-in and Success with their existing content.
+        - paragraph:
+          - strong: Kept
+          - text: the email button submitting to the existing Email List and leading directly to Success.
+        - paragraph:
+          - strong: Kept
+          - text: the form unpublished.
+      - paragraph:
+        - strong: Save the preview card to apply these changes to the existing draft.
+      - button
+      - generic: Composer QA - Visual and Content - 2026-11-03
+      - generic: Proposed signup form changes
+      - generic: Open preview
+      - button:
+      - button:
+        - generic: Copy this message
+      - button:
+        - generic: Give positive feedback
+      - button:
+        - generic: Give negative feedback
+      - generic: 9 minutes ago
+    - article:
+      - generic: You
+      - paragraph: On QA draft XBMzK8, delete its only remaining user-input step, Email Opt-in. Do not replace it or create any new step. Keep the form unpublished.
+      - generic: 8 minutes ago
+      - button:
+        - generic: Copy this message
+    - article:
+      - generic: Composer
+      - status
+      - paragraph: I’ll try removing Email Opt-in without adding a replacement, leaving Success unchanged and the form unpublished.
+      - generic: Ran read form
+      - generic: Edited form Composer QA - Visual and Content - 2026-11-03
+      - paragraph:
+        - text: Updated the preview for your
+        - link:
+          - /url: /forms/XBMzK8
+          - generic: QA draft
+        - text: .
+      - list:
+        - paragraph:
+          - strong: Deleted
+          - text: Email Opt-in without adding a replacement or any new step.
+        - paragraph:
+          - strong: Preserved
+          - text: only Success and its existing content.
+        - paragraph:
+          - strong: Kept
+          - text: the form unpublished.
+      - paragraph:
+        - strong: Save the preview card to apply this deletion to the existing draft.
+      - button
+      - generic: Composer QA - Visual and Content - 2026-11-03
+      - generic: Proposed signup form changes
+      - generic: Open preview
+      - button:
+      - button:
+        - generic: Copy this message
+      - button:
+        - generic: Give positive feedback
+      - button:
+        - generic: Give negative feedback
+      - generic: 7 minutes ago
+    - article:
+      - generic: You
+      - paragraph: From the current proposal, also delete the remaining Success step so the form has zero steps total. Do not replace it or create any new step. Keep unpublished.
+      - generic: 7 minutes ago
+      - button:
+        - generic: Copy this message
+    - article:
+      - generic: Composer
+      - status
+      - paragraph: I’ll try deleting Success from the current proposal without adding any replacement, keeping it unpublished.
+      - generic: Edited form Composer QA - Visual and Content - 2026-11-03
+      - paragraph: Updated the current proposal.
+      - list:
+        - paragraph:
+          - strong: Deleted
+          - text: the remaining Success step, leaving
+          - strong: zero steps total
+          - text: .
+        - paragraph:
+          - strong: Added
+          - text: no replacements or new steps.
+        - paragraph:
+          - strong: Kept
+          - text: unpublished status.
+      - paragraph:
+        - strong: Save the preview card to apply this change to the existing QA draft.
+      - button
+      - generic: Composer QA - Visual and Content - 2026-11-03
+      - generic: Proposed signup form changes
+      - generic: Open preview
+      - button:
+      - button:
+        - generic: Copy this message
+      - button:
+        - generic: Give positive feedback
+      - button:
+        - generic: Give negative feedback
+      - generic: 7 minutes ago
+    - article:
+      - generic: You
+      - paragraph:
+        - text: "Restore QA draft XBMzK8 to a valid two-step form: Email Opt-in and Success. Email Opt-in: heading Fresh finds, first access (Georgia, 32px, #183A59"
+        - text: ", left aligned), body Get weekly updates and exclusive offers. with exclusive offers bold, required Email input mapped to email, and Join the list button submitting to the real existing Email List then showing Success. Success heading Thanks for subscribing! Also add optional text input Favorite color mapped to profile property qa_favorite_color, dropdown Favorite season mapped to qa_season with Spring/Summer/Autumn/Winter, radio group Shopping preference mapped to qa_preference with Online/In store, multi-checkbox Interests mapped to qa_interests with Books/Music/Travel, and date input Birthday using MM/DD/YYYY mapped to Birthday. Keep the same form ID and unpublished."
+      - generic: 6 minutes ago
+      - button:
+        - generic: Copy this message
+    - article:
+      - generic: Composer
+      - status
+      - paragraph: I’ll restore Email Opt-in and Success in the existing proposal, add the requested profile fields, and connect submission to the real Email List while keeping the form unpublished.
+      - button:
+        - generic: Worked for 5s
+      - generic: Edited form Composer QA - Visual and Content - 2026-11-03
+      - paragraph:
+        - text: Restored the proposal for
+        - link:
+          - /url: /forms/XBMzK8
+          - generic: QA draft XBMzK8
+        - text: to
+        - strong: Email Opt-in → Success
+        - text: ", with no validation alerts."
+      - list:
+        - paragraph:
+          - strong: Restored
+          - text: "“Fresh finds, first access” in Georgia, 32px, #183A59"
+          - text: ", left aligned, and the body with"
+          - strong: exclusive offers
+          - text: bold.
+        - paragraph:
+          - strong: Added
+          - text: required Email and all five requested profile fields, using the exact mappings, options, and MM/DD/YYYY birthday format. The additional fields are optional.
+        - paragraph:
+          - strong: Connected
+          - text: “Join the list” to the existing
+          - link:
+            - /url: /list/WATtbi
+            - generic: Email List
+          - text: ", then Success."
+        - paragraph:
+          - strong: Restored
+          - text: “Thanks for subscribing!” on Success.
+        - paragraph:
+          - strong: Kept
+          - text: the same form ID and unpublished status.
+      - paragraph:
+        - strong: Save the preview card to apply the restoration to the existing draft.
+      - button
+      - generic: Composer QA - Visual and Content - 2026-11-03
+      - generic: Proposed signup form changes
+      - generic: Open preview
+      - button:
+      - button:
+        - generic: Copy this message
+      - button:
+        - generic: Give positive feedback
+      - button:
+        - generic: Give negative feedback
+      - generic: 6 minutes ago
+    - article:
+      - generic: You
+      - paragraph: On QA draft XBMzK8, change Favorite season dropdown to exactly one option Spring, Shopping preference radio buttons to exactly one option Online, and Interests multi-checkbox to exactly one option Books. For each option, explicitly store the same text as both its label and its profile-property value. Preserve the property mappings and keep unpublished. Also set Birthday to the supported MM/DD/YYYY date format, not only placeholder text; Designer currently shows Date Format as Select an option.
+      - generic: 4 minutes ago
+      - button:
+        - generic: Copy this message
+    - article:
+      - generic: Composer
+      - status
+      - paragraph: I’ll reduce each choice field to the single requested option and check the Birthday format setting, preserving the property mappings and unpublished status.
+      - button:
+        - generic: Worked for 6s
+      - generic: Edited form Composer QA - Visual and Content - 2026-11-03
+      - paragraph:
+        - text: Updated the proposal for
+        - link:
+          - /url: /forms/XBMzK8
+          - generic: QA draft
+        - text: ":"
+      - list:
+        - paragraph:
+          - strong: Set
+          - text: Favorite season to only
+          - strong: Spring
+          - text: ", with label and stored value both"
+          - code: Spring
+          - text: .
+        - paragraph:
+          - strong: Set
+          - text: Shopping preference to only
+          - strong: Online
+          - text: ", with label and stored value both"
+          - code: Online
+          - text: .
+        - paragraph:
+          - strong: Set
+          - text: Interests to only
+          - strong: Books
+          - text: ", with label and stored value both"
+          - code: Books
+          - text: .
+        - paragraph:
+          - strong: Preserved
+          - text: all property mappings and unpublished status.
+      - paragraph:
+        - strong: Birthday remains unresolved.
+        - text: Its actual format setting already contains
+        - code: MM/DD/YYYY
+        - text: ", not just its placeholder, but that value is not being recognized by Designer. I couldn’t verify the supported underlying value, so I haven’t claimed it fixed or substituted a guess."
+      - paragraph:
+        - text: Save the preview to apply the option changes. For Birthday, select the Date block and choose the month/day/four-digit-year format under
+        - strong: Date Format
+        - text: ", with"
+        - code: /
+        - text: as the delimiter.
+      - button
+      - generic: Composer QA - Visual and Content - 2026-11-03
+      - generic: Proposed signup form changes
+      - generic: Open preview
+      - button:
+      - button:
+        - generic: Copy this message
+      - button:
+        - generic: Give positive feedback
+      - button:
+        - generic: Give negative feedback
+      - generic: 4 minutes ago
+    - article:
+      - generic: You
+      - paragraph: On QA draft XBMzK8, set the Favorite season dropdown options to Spring, Spring, Summer; Shopping preference radio options to Online, Online, In store; and Interests multi-checkbox options to Books, Books, Music. Use identical labels and stored values and preserve the duplicates exactly if supported. If duplicates are invalid, explain and leave those fields unchanged. Keep unpublished.
+      - generic: 3 minutes ago
+      - button:
+        - generic: Copy this message
+    - article:
+      - generic: Composer
+      - status
+      - paragraph: I’ll try the exact option lists, including duplicates, in one update. If validation rejects them, I’ll leave all three fields unchanged and keep the form unpublished.
+      - generic: Edited form Composer QA - Visual and Content - 2026-11-03
+      - paragraph:
+        - text: Updated the proposal for
+        - link:
+          - /url: /forms/XBMzK8
+          - generic: QA draft
+        - text: .
+        - strong: Validation accepted the duplicates exactly as requested.
+      - list:
+        - paragraph:
+          - strong: Set
+          - text: Favorite season to Spring, Spring, Summer.
+        - paragraph:
+          - strong: Set
+          - text: Shopping preference to Online, Online, In store.
+        - paragraph:
+          - strong: Set
+          - text: Interests to Books, Books, Music.
+        - paragraph:
+          - strong: Preserved
+          - text: identical labels and stored values for every option, existing property mappings, and unpublished status.
+      - paragraph:
+        - strong: Save the preview card to apply these changes to the existing draft.
+      - button
+      - generic: Composer QA - Visual and Content - 2026-11-03
+      - generic: Proposed signup form changes
+      - generic: Open preview
+      - button:
+      - button:
+        - generic: Copy this message
+      - button:
+        - generic: Give positive feedback
+      - button:
+        - generic: Give negative feedback
+      - generic: 2 minutes ago
+    - article:
+      - generic: You
+      - paragraph:
+        - text: On QA draft XBMzK8, change Join the list button action to Go to URL with destination
+        - link:
+          - /url: https://example.com/composer-qa
+          - generic: https://example.com/composer-qa
+        - text: . Add an image block above the heading using an existing real image from this account’s library. If no usable asset is available, ask for one; do not invent an image URL. Preserve other content and keep unpublished.
+      - generic: 2 minutes ago
+      - button:
+        - generic: Copy this message
+    - article:
+      - generic: Composer
+      - status
+      - paragraph: I’ll set the button to go to your URL and find an existing library image to place above the heading, keeping the other content and unpublished status unchanged.
+      - button:
+        - generic: Worked for 6s
+      - generic: Edited form Composer QA - Visual and Content - 2026-11-03
+      - paragraph:
+        - text: Updated the proposal for your
+        - link:
+          - /url: /forms/XBMzK8
+          - generic: QA draft
+        - text: .
+      - list:
+        - paragraph:
+          - strong: Changed
+          - text: “Join the list” to Go to URL, targeting
+          - code: https://example.com/composer-qa
+          - text: .
+        - paragraph:
+          - strong: Added
+          - text: the existing library image “Logo 3”, a Google wordmark, above the heading with descriptive alt text.
+        - paragraph:
+          - strong: Preserved
+          - text: other content and unpublished status.
+      - paragraph:
+        - strong: Validation now warns that the form collects information but cannot be submitted.
+        - text: The Success step remains unchanged, but the button now redirects instead of showing it.
+      - paragraph:
+        - strong: Save the preview card to apply these changes to the existing draft.
+      - button
+      - generic: Composer QA - Visual and Content - 2026-11-03
+      - generic: Proposed signup form changes
+      - generic: Open preview
+      - button:
+      - button:
+        - generic: Copy this message
+      - button:
+        - generic: Give positive feedback
+      - button:
+        - generic: Give negative feedback
+      - generic: 2 minutes ago
+    - article:
+      - generic: You
+      - paragraph: On QA draft XBMzK8, change Join the list back to Submit form using the real existing Email List (resolve the entity, no null or invented list ID) and show Success afterward. Replace the added Logo 3 image with a different existing image from this account’s library, preserving its image block position. Keep unpublished and leave other content unchanged.
+      - generic: 1 minute ago
+      - button:
+        - generic: Copy this message
+    - article:
+      - generic: Composer
+      - status
+      - paragraph: I’ll reconnect “Join the list” to the existing Email List and Success, then replace Logo 3 with another library image in the same position.
+      - button:
+        - generic: Worked for 2s
+      - generic: Edited form Composer QA - Visual and Content - 2026-11-03
+      - paragraph:
+        - text: Updated the proposal for your
+        - link:
+          - /url: /forms/XBMzK8
+          - generic: QA draft
+        - text: .
+      - list:
+        - paragraph:
+          - strong: Restored
+          - text: “Join the list” to Submit form using the verified existing
+          - link:
+            - /url: /list/WATtbi
+            - generic: Email List
+          - text: ", followed by Success."
+        - paragraph:
+          - strong: Replaced
+          - text: Logo 3 with an existing library image of a woman holding a brown purse, preserving the image block’s position and styling.
+        - paragraph:
+          - strong: Preserved
+          - text: all other content and unpublished status.
+      - paragraph:
+        - text: The submission warning is cleared.
+        - strong: Save the preview card to apply these changes to the existing draft.
+      - button
+      - generic: Composer QA - Visual and Content - 2026-11-03
+      - generic: Proposed signup form changes
+      - generic: Open preview
+      - button:
+      - button:
+        - generic: Copy this message
+      - button:
+        - generic: Give positive feedback
+      - button:
+        - generic: Give negative feedback
+      - generic: 1 minute ago
+- button:
+  - generic: Scroll to the latest message.
+- button:
+- textbox:
+  - paragraph: Work with Composer, @ to mention
+- button [disabled]:
+- generic: Add a file
+- generic: Drop your file here to add it to your message.
+- dialog
+- status

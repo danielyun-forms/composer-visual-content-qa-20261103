@@ -1,0 +1,183 @@
+- link "Skip to content":
+  - /url: "#app-shell-main"
+  - generic: Skip to content
+- text: Composer is getting smarter. Your preview has
+- strong: 12 days and 9,106 credits remaining
+- text: .
+- button "Upgrade":
+  - generic: Upgrade
+- button "Dismiss":
+  - generic: Dismiss
+- alert
+- alert
+- banner:
+  - button "Exit":
+    - generic: Exit
+  - button "Composer QA - Spin - 2026-11-03 - Click to rename":
+    - generic: Composer QA - Spin - 2026-11-03
+  - generic: Switch form
+  - combobox "Switch form":
+    - generic: Switch form
+  - generic: Composer QA - Spin - 2026-11-03
+  - textbox "Composer QA - Spin - 2026-11-03"
+  - generic: Publish changes
+  - combobox "Publish changes":
+    - generic: Draft
+  - button "What's new":
+    - generic: What's new
+  - button "Alerts":
+    - generic: Alerts
+  - button "Comments":
+    - generic: Comments
+  - button "Preview on website":
+    - generic: Preview on website
+  - button "Publish or schedule":
+    - generic: Publish or schedule
+  - button "Close Composer":
+    - generic: Close Composer
+- button "Add content":
+  - generic: Add content
+- button "Edit styles":
+  - generic: Edit styles
+- button "Targeting & behavior":
+  - generic: Targeting & behavior
+- button "Create A/B test":
+  - generic: Create A/B test
+- button "Undo" [disabled]:
+  - generic: Undo
+- button "Redo" [disabled]:
+  - generic: Redo
+- button "Teaser":
+  - generic: Teaser
+- button "Options":
+  - generic: Options
+- button "Move step Email Opt-In Options":
+  - button "Move step":
+    - generic: Move step
+  - button "Email Opt-In":
+    - generic: Email Opt-In
+  - button "Options":
+    - generic: Options
+- button "Move step SMS Opt-In Options":
+  - button "Move step":
+    - generic: Move step
+  - button "SMS Opt-In":
+    - generic: SMS Opt-In
+  - button "Options":
+    - generic: Options
+- button "Step":
+  - generic: Step
+- button "Success":
+  - generic: Success
+- generic: mobile or desktop
+- group "mobile or desktop":
+  - generic: mobile or desktop
+  - radiogroup [disabled]:
+    - radio "Both" [disabled]
+    - generic: Both
+    - radio "Desktop" [checked] [disabled]
+    - generic: Desktop
+    - radio "Mobile" [disabled]
+    - generic: Mobile
+- iframe:
+  - link "Gmail":
+    - /url: https://mail.google.com/mail/&ogbl
+  - link "Search for Images":
+    - /url: https://www.google.com/imghp?hl=en&ogbl
+    - text: Images
+  - button "Google apps":
+  - link "Sign in":
+    - /url: https://accounts.google.com/ServiceLogin?hl=en&passive=true&continue=https://www.google.com/&ec=GAZAmgQ
+  - img "Google"
+  - table:
+    - rowgroup:
+      - row "Google Search I'm Feeling Lucky Advanced search":
+        - cell
+        - cell "Google Search I'm Feeling Lucky":
+          - textbox "Google Search"
+          - button "Google Search"
+          - button "I'm Feeling Lucky"
+        - cell "Advanced search":
+          - link "Advanced search":
+            - /url: /advanced_search?hl=en&authuser=0
+  - link "Advertising":
+    - /url: /intl/en/ads/
+  - link "Business Solutions":
+    - /url: /services/
+  - link "About Google":
+    - /url: /intl/en/about.html
+  - paragraph:
+    - text: © 2026 -
+    - link "Privacy":
+      - /url: /intl/en/policies/privacy/
+    - text: "-"
+    - link "Terms":
+      - /url: /intl/en/policies/terms/
+- dialog "POPUP Form":
+  - button "Close dialog":
+  - heading "SUMMER SALE" [level=1]
+  - heading "SPIN TO WIN" [level=1]
+  - generic: Free Shipping
+  - generic: 10% Off
+  - generic: 15% Off
+  - generic: 5% Off
+  - generic: Free Shipping
+  - generic: 10% Off
+  - generic: 15% Off
+  - generic: 5% Off
+  - group "Marketing and tracking consent":
+    - generic: Marketing and tracking consent
+    - checkbox "Receive marketing communications and targeted advertising from us from time to time. We and our service providers also use tracking pixels, including open and click tracking, in our marketing and transactional emails to see if you have opened them or clicked our links and to gather device information. This helps us personalize content, adjust how often we message you, and choose the best channel to reach you."
+    - generic: Receive marketing communications and targeted advertising from us from time to time. We and our service providers also use tracking pixels, including open and click tracking, in our marketing and transactional emails to see if you have opened them or clicked our links and to gather device information. This helps us personalize content, adjust how often we message you, and choose the best channel to reach you.
+    - generic: You can withdraw your consent at any time using the unsubscribe link(s) in the footer of our emails.
+  - generic: Email
+  - textbox "Email"
+  - button "SPIN!"
+  - button "No thanks"
+  - alert
+- button "New chat":
+  - generic: New chat
+- generic: "2"
+- generic: 2 unread conversations
+- button "Customize":
+  - generic: Customize
+- button "Expand":
+  - generic: Expand
+- button "Close":
+  - generic: Close
+- heading "Composer just got smarter." [level=4]
+- paragraph:
+  - text: New capabilities mean you can take on bigger, more ambitious work.
+  - button "Learn more"
+- region "Suggested ways to start":
+  - status "Slide 2 of 2"
+  - button "Previous slide":
+    - generic: Previous slide
+  - button "Next slide":
+    - generic: Next slide
+  - group "Slide 1 of 2":
+    - button "Audit this form":
+      - heading "Audit this form" [level=3]
+    - button "Help me change this form’s colors":
+      - heading "Help me change this form’s colors" [level=3]
+    - button "Help me change this form’s layout":
+      - heading "Help me change this form’s layout" [level=3]
+  - group "Slide 2 of 2":
+    - button "Check when and where this form shows":
+      - heading "Check when and where this form shows" [level=3]
+    - button "Check which list this form adds to":
+      - heading "Check which list this form adds to" [level=3]
+    - button "Suggest a test for this form":
+      - heading "Suggest a test for this form" [level=3]
+- paragraph:
+  - text: Composer is an AI assistant. By sending a message, you consent to this chat being recorded and processed by us and our service providers.
+  - link "Privacy Notice":
+    - /url: https://privacy.klaviyo.com/policies/?name=klaviyo-privacy-policy
+- button "Add an attachment.":
+- textbox "Work with Composer, @ to mention" [active]:
+  - paragraph: Work with Composer, @ to mention
+- button "Send this message." [disabled]:
+- generic: Add a file
+- generic: Drop your file here to add it to your message.
+- dialog
+- slider "Resize the chat panel"

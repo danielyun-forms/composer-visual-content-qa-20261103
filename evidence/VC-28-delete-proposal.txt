@@ -1,0 +1,303 @@
+- link "Skip to content":
+  - /url: "#app-shell-main"
+  - generic: Skip to content
+- text: Composer is getting smarter. Your preview has
+- strong: 12 days and 9,106 credits remaining
+- text: .
+- button "Upgrade":
+  - generic: Upgrade
+- button "Dismiss":
+  - generic: Dismiss
+- alert
+- alert
+- banner:
+  - button "Exit":
+    - generic: Exit
+  - button "Composer QA - Spin - 2026-11-03 - Click to rename":
+    - generic: Composer QA - Spin - 2026-11-03
+  - generic: Switch form
+  - combobox "Switch form":
+    - generic: Switch form
+  - generic: Composer QA - Spin - 2026-11-03
+  - textbox "Composer QA - Spin - 2026-11-03"
+  - generic: Publish changes
+  - combobox "Publish changes":
+    - generic: Draft
+  - button "What's new":
+    - generic: What's new
+  - button "Alerts":
+    - generic: Alerts
+  - button "Comments":
+    - generic: Comments
+  - button "Preview on website":
+    - generic: Preview on website
+  - button "Publish or schedule":
+    - generic: Publish or schedule
+  - button "Close Composer":
+    - generic: Close Composer
+- button "Add content":
+  - generic: Add content
+- button "Edit styles":
+  - generic: Edit styles
+- button "Targeting & behavior":
+  - generic: Targeting & behavior
+- button "Create A/B test":
+  - generic: Create A/B test
+- button "Undo" [disabled]:
+  - generic: Undo
+- button "Redo" [disabled]:
+  - generic: Redo
+- button "Teaser":
+  - generic: Teaser
+- button "Options":
+  - generic: Options
+- button "Move step Email Opt-In Options":
+  - button "Move step":
+    - generic: Move step
+  - button "Email Opt-In":
+    - generic: Email Opt-In
+  - button "Options":
+    - generic: Options
+- button "Move step SMS Opt-In Options":
+  - button "Move step":
+    - generic: Move step
+  - button "SMS Opt-In":
+    - generic: SMS Opt-In
+  - button "Options":
+    - generic: Options
+- button "Step":
+  - generic: Step
+- button "Success":
+  - generic: Success
+- generic: mobile or desktop
+- group "mobile or desktop":
+  - generic: mobile or desktop
+  - radiogroup [disabled]:
+    - radio "Both" [disabled]
+    - generic: Both
+    - radio "Desktop" [checked] [disabled]
+    - generic: Desktop
+    - radio "Mobile" [disabled]
+    - generic: Mobile
+- iframe:
+  - link "Gmail":
+    - /url: https://mail.google.com/mail/&ogbl
+  - link "Search for Images":
+    - /url: https://www.google.com/imghp?hl=en&ogbl
+    - text: Images
+  - button "Google apps":
+  - link "Sign in":
+    - /url: https://accounts.google.com/ServiceLogin?hl=en&passive=true&continue=https://www.google.com/&ec=GAZAmgQ
+  - img "Google"
+  - table:
+    - rowgroup:
+      - row "Google Search I'm Feeling Lucky Advanced search":
+        - cell
+        - cell "Google Search I'm Feeling Lucky":
+          - textbox "Google Search"
+          - button "Google Search"
+          - button "I'm Feeling Lucky"
+        - cell "Advanced search":
+          - link "Advanced search":
+            - /url: /advanced_search?hl=en&authuser=0
+  - link "Advertising":
+    - /url: /intl/en/ads/
+  - link "Business Solutions":
+    - /url: /services/
+  - link "About Google":
+    - /url: /intl/en/about.html
+  - paragraph:
+    - text: © 2026 -
+    - link "Privacy":
+      - /url: /intl/en/policies/privacy/
+    - text: "-"
+    - link "Terms":
+      - /url: /intl/en/policies/terms/
+- dialog "POPUP Form":
+  - button "Close dialog":
+  - heading "SUMMER SALE" [level=1]
+  - heading "SPIN TO WIN" [level=1]
+  - generic: Free Shipping
+  - generic: 10% Off
+  - generic: 15% Off
+  - generic: 5% Off
+  - generic: Free Shipping
+  - generic: 10% Off
+  - generic: 15% Off
+  - generic: 5% Off
+  - group "Marketing and tracking consent":
+    - generic: Marketing and tracking consent
+    - checkbox "Receive marketing communications and targeted advertising from us from time to time. We and our service providers also use tracking pixels, including open and click tracking, in our marketing and transactional emails to see if you have opened them or clicked our links and to gather device information. This helps us personalize content, adjust how often we message you, and choose the best channel to reach you."
+    - generic: Receive marketing communications and targeted advertising from us from time to time. We and our service providers also use tracking pixels, including open and click tracking, in our marketing and transactional emails to see if you have opened them or clicked our links and to gather device information. This helps us personalize content, adjust how often we message you, and choose the best channel to reach you.
+    - generic: You can withdraw your consent at any time using the unsubscribe link(s) in the footer of our emails.
+  - generic: Email
+  - textbox "Email"
+  - button "SPIN!"
+  - button "No thanks"
+  - alert
+- button "Add QA Bonus slice and success step to XHCzWD":
+  - generic: Add QA Bonus slice and success step to XHCzWD
+- generic: "2"
+- generic: 2 unread conversations
+- button "Customize":
+  - generic: Customize
+- button "Start a new chat":
+  - generic: Start a new chat
+- button "Expand":
+  - generic: Expand
+- button "Close":
+  - generic: Close
+- region "Messages":
+  - paragraph:
+    - text: Composer is an AI assistant. By sending a message, you consent to this chat being recorded and processed by us and our service providers.
+    - link "Privacy Notice":
+      - /url: https://privacy.klaviyo.com/policies/?name=klaviyo-privacy-policy
+  - log:
+    - article "You":
+      - generic: You
+      - paragraph: On this QA spin-to-win draft XHCzWD only, add a new wheel slice labelled QA Bonus and a new corresponding success step named QA Bonus success, containing heading QA Bonus unlocked. Link that slice to the new success step using the proper temporary_id resolution. Rebalance weights to a valid total and preserve all existing slices and other content. Keep unpublished.
+      - generic: 3 minutes ago
+      - button "Copy this message":
+        - generic: Copy this message
+    - article "Composer":
+      - generic: Composer
+      - status
+      - paragraph: I’ll inspect this draft, add the QA Bonus slice and linked success step, and rebalance the weights without publishing it.
+      - button "Worked for 3s":
+        - generic: Worked for 3s
+      - generic: Opened form preview Composer QA - Spin - 2026-11-03
+      - button "Worked for 1s":
+        - generic: Worked for 1s
+      - generic: Form edit was rejected
+      - generic: Searched Klaviyo Help Center for "When editing a form preview to add a spin-to-win success step a…"
+      - generic: Form edit was rejected
+      - paragraph:
+        - text: The edit is
+        - strong: blocked by validation
+        - text: ": the editor rejects"
+        - code: temporary_id
+        - text: on the new success step with “temporary_id is not allowed to be specified on update.”
+      - paragraph:
+        - text: Both attempts were rejected atomically, so
+        - strong: no slice, step, or weight changes were applied
+        - text: . Your
+        - link "QA draft":
+          - /url: /forms/XHCzWD
+          - generic: QA draft
+        - text: remains unchanged and unpublished.
+      - paragraph:
+        - text: I can
+        - button "use an assigned step ID instead":
+          - generic: use an assigned step ID instead
+        - text: ", but that would not test the temporary ID resolution you requested."
+      - button
+      - generic: Composer QA - Spin - 2026-11-03
+      - generic: Proposed signup form changes
+      - generic: Open preview
+      - button "Open preview":
+      - button "Copy this message":
+        - generic: Copy this message
+      - button "Give positive feedback":
+        - generic: Give positive feedback
+      - button "Give negative feedback":
+        - generic: Give negative feedback
+      - generic: 3 minutes ago
+    - article "You":
+      - generic: You
+      - paragraph: Add QA Bonus and its linked QA Bonus success step using the supported edit mechanism you can actually save, preserving current slices and valid weights. Keep XHCzWD unpublished.
+      - generic: 1 minute ago
+      - button "Copy this message":
+        - generic: Copy this message
+    - article "Composer":
+      - generic: Composer
+      - status
+      - paragraph: I’ll add the success step first, then use its assigned ID to link QA Bonus and rebalance the weights. I’ll keep the form unpublished.
+      - generic: Form edit was rejected
+      - generic: Ran read form
+      - generic: Form edit was rejected
+      - generic: Form edit was rejected
+      - paragraph: "I couldn’t complete the edit: the preview editor is now returning an error even for a check that makes no changes. My earlier suggestion that I could use an assigned step ID was not verified."
+      - paragraph:
+        - text: Your
+        - link "QA spin-to-win draft":
+          - /url: /forms/XHCzWD
+          - generic: QA spin-to-win draft
+        - text: is
+        - strong: unchanged and unpublished
+        - text: ", with all four original slices and weights totaling 100%."
+      - paragraph:
+        - button "Contact support about the editing error":
+          - generic: Contact support about the editing error
+      - button "Copy this message":
+        - generic: Copy this message
+      - button "Give positive feedback":
+        - generic: Give positive feedback
+      - button "Give negative feedback":
+        - generic: Give negative feedback
+      - generic: 1 minute ago
+    - article "You":
+      - generic: You
+      - paragraph: Independently test deleting the existing 5% Off slice from QA draft XHCzWD. Preserve all remaining slices, ensure remaining weights sum to 100%, and remove an associated success step only if it is truly orphaned; preserve shared targets. Keep unpublished.
+      - generic: 29 seconds ago
+      - button "Copy this message":
+        - generic: Copy this message
+    - article "Composer":
+      - generic: Composer
+      - status
+      - paragraph: I’ll check whether any other slice uses the 5% Off success step, then test removing the slice and rebalancing the remaining weights without publishing.
+      - generic: Ran read form
+      - generic: Edited form Composer QA - Spin - 2026-11-03
+      - paragraph:
+        - text: The deletion test
+        - strong: succeeded in the preview
+        - text: for
+        - link "QA draft XHCzWD":
+          - /url: /forms/XHCzWD
+          - generic: QA draft XHCzWD
+        - text: .
+      - list:
+        - paragraph:
+          - strong: Removed
+          - text: the 5% Off slice and its success step, which had no other references.
+        - paragraph:
+          - strong: Rebalanced
+          - text: weights to Free Shipping
+          - strong: 50%
+          - text: ", 10% Off"
+          - strong: 1%
+          - text: ", and 15% Off"
+          - strong: 49%
+          - text: ", totaling"
+          - strong: 100%
+          - text: .
+        - paragraph:
+          - strong: Preserved
+          - text: all remaining slices, their success targets, and other content.
+        - paragraph:
+          - strong: Kept
+          - text: the form unpublished.
+      - paragraph:
+        - strong: Save the preview
+        - text: to apply these changes to the draft.
+      - button
+      - generic: Composer QA - Spin - 2026-11-03
+      - generic: Proposed signup form changes
+      - generic: Open preview
+      - button "Open preview":
+      - button "Copy this message":
+        - generic: Copy this message
+      - button "Give positive feedback":
+        - generic: Give positive feedback
+      - button "Give negative feedback":
+        - generic: Give negative feedback
+      - generic: 22 seconds ago
+- button "Scroll to the latest message.":
+  - generic: Scroll to the latest message.
+- button "Add an attachment.":
+- textbox "Work with Composer, @ to mention" [active]:
+  - paragraph: Work with Composer, @ to mention
+- button "Send this message." [disabled]:
+- generic: Add a file
+- generic: Drop your file here to add it to your message.
+- dialog
+- slider "Resize the chat panel"

@@ -1,0 +1,365 @@
+- generic: Navigated to Edit Form
+- link "Skip to content":
+  - /url: "#app-shell-main"
+  - generic: Skip to content
+- text: Composer is getting smarter. Your preview has
+- strong: 12 days and 8,769 credits remaining
+- text: .
+- button "Upgrade":
+  - generic: Upgrade
+- button "Dismiss":
+  - generic: Dismiss
+- alert
+- alert
+- banner:
+  - button "Exit":
+    - generic: Exit
+  - button "Composer QA - Back in Stock - 2026-11-03 - Click to rename":
+    - generic: Composer QA - Back in Stock - 2026-11-03
+  - generic: Switch form
+  - combobox "Switch form":
+    - generic: Switch form
+  - generic: Composer QA - Back in Stock - 2026-11-03
+  - textbox "Composer QA - Back in Stock - 2026-11-03"
+  - generic: Publish changes
+  - combobox "Publish changes":
+    - generic: Draft
+  - button "What's new":
+    - generic: What's new
+  - button "Alerts":
+    - generic: Alerts
+  - button "Comments":
+    - generic: Comments
+  - button "Preview on website":
+    - generic: Preview on website
+  - button "Publish or schedule":
+    - generic: Publish or schedule
+  - button "Open Composer":
+    - generic: Open Composer
+- button "Add content":
+  - generic: Add content
+- button "Edit styles" [active]:
+  - generic: Edit styles
+- button "Targeting & behavior":
+  - generic: Targeting & behavior
+- heading "Edit styles" [level=6]
+- button "Collapse panel":
+  - generic: Collapse panel
+- separator
+- separator
+- region "Popup settings":
+  - heading "Popup settings" [level=2]
+  - generic: Width
+  - combobox "Width":
+    - generic: Custom
+  - generic: W
+  - textbox:
+    - /placeholder: Auto
+    - text: "400"
+  - generic: px
+  - generic: Min height
+  - textbox "Min height":
+    - /placeholder: Auto
+    - text: "250"
+  - generic: px
+- region "Side image":
+  - heading "Side image" [level=2]
+  - generic: Side image
+  - combobox "Side image":
+    - generic: No side image
+- region "Background color":
+  - heading "Background color" [level=2]
+  - generic: Background color
+  - combobox:
+    - generic: "#"
+    - textbox "Background color": "477099"
+- region "Background image":
+  - heading "Background image" [level=2]
+  - button "Add background image":
+    - generic: Add background image
+- region "Overlay color":
+  - heading "Overlay color" [level=2]
+  - generic: Overlay color
+  - combobox:
+    - generic: "#"
+    - textbox "Overlay color": "141414"
+- region "Drop shadow":
+  - heading "Drop shadow" [level=2]
+  - button "Add drop shadow":
+    - generic: Add drop shadow
+- region "Corner radius":
+  - heading "Corner radius" [level=2]
+  - generic: Corner radius
+  - textbox "Corner radius": "8"
+- region "Border":
+  - heading "Border" [level=2]
+  - button "Add border":
+    - generic: Add border
+- region "Padding":
+  - heading "Padding" [level=2]
+  - group "Padding":
+    - generic: Vertical padding
+    - textbox "Vertical padding": "24"
+    - generic: px
+    - generic: Horizontal padding
+    - textbox "Horizontal padding": "40"
+    - generic: px
+    - button "Individual padding":
+      - generic: Individual padding
+- region "Margin":
+  - heading "Margin" [level=2]
+  - group "Margin":
+    - generic: Vertical margin
+    - textbox "Vertical margin": "10"
+    - generic: px
+    - generic: Horizontal margin
+    - textbox "Horizontal margin": "10"
+    - generic: px
+    - button "Individual margin":
+      - generic: Individual margin
+- region "Focus outline":
+  - heading "Focus outline" [level=2]
+  - generic: Focus outline
+  - combobox:
+    - generic: "#"
+    - textbox "Focus outline": "000000"
+- region "Text and headings":
+  - heading "Text and headings" [level=2]
+  - generic: Text element
+  - combobox "Text element":
+    - generic: Body
+  - group "Text format":
+    - generic: Font Family Dropdown
+    - combobox "Font Family Dropdown":
+      - generic: Poppins-Klaviyo-Hosted Bold 700
+  - generic: Font size
+  - textbox "Font size": "20"
+  - generic: px
+  - generic: Text color
+  - combobox:
+    - generic: "#"
+    - textbox "Text color": FFFFFF
+  - generic: Character spacing
+  - textbox "Character spacing": "0"
+  - generic: px
+  - generic: Line spacing
+  - textbox "Line spacing": "1"
+  - generic: Text alignment
+  - group "Text alignment":
+    - generic: Text alignment
+    - radiogroup:
+      - radio "Align left" [checked]
+      - generic: Align left
+      - radio "Align center"
+      - generic: Align center
+      - radio "Align right"
+      - generic: Align right
+- region "Links":
+  - heading "Links" [level=2]
+  - generic: Link color
+  - combobox:
+    - generic: "#"
+    - textbox "Link color": FFFFFF
+  - generic: Link decoration
+  - combobox "Link decoration":
+    - generic: Underline
+- region "Input field text":
+  - heading "Input field text" [level=2]
+  - group "Text format":
+    - generic: Font Family Dropdown
+    - combobox "Font Family Dropdown":
+      - generic: Helvetica
+  - generic: Font size
+  - textbox "Font size": "16"
+  - generic: px
+  - generic: Character Spacing
+  - textbox "Character Spacing": "0"
+  - generic: px
+  - generic: Text Color
+  - combobox:
+    - generic: "#"
+    - textbox "Text Color": "000000"
+  - generic: Label Color
+  - combobox:
+    - generic: "#"
+    - textbox "Label Color": 373F47
+  - generic: Placeholder
+  - combobox:
+    - generic: "#"
+    - textbox "Placeholder": 2B3848
+- region "Input field styles":
+  - heading "Input field styles" [level=2]
+  - generic: Background Color
+  - combobox:
+    - generic: "#"
+    - textbox "Background Color": FFFFFF
+  - generic: Border Color
+  - combobox:
+    - generic: "#"
+    - textbox "Border Color": B4BBC3
+  - generic: Focus Border Color
+  - combobox:
+    - generic: "#"
+    - textbox "Focus Border Color": "000000"
+  - generic: Corner Radius
+  - textbox "Corner Radius": "8"
+  - generic: Input Field Height
+  - generic: H
+  - textbox "Input Field Height":
+    - /placeholder: Auto
+    - text: "38"
+  - generic: px
+- region "Close icon":
+  - heading "Close icon" [level=2]
+  - generic: Customize the close icon of your form to allow visitors to dismiss the form.
+  - button "Go to Close Icon menu":
+    - generic: Go to Close Icon menu
+- region "Accessible form name":
+  - heading "Accessible form name" [level=2]
+  - generic: Accessible form name
+  - generic: Screen readers announce this text when the form opens. You are responsible for making sure it accurately describes the form's purpose.
+  - textbox "Accessible form name"
+- region "Custom CSS":
+  - heading "Custom CSS" [level=2]
+  - generic: Custom coding allows you override form-level CSS.
+  - checkbox "Enable custom CSS"
+  - generic: Enable custom CSS
+- button "Undo" [disabled]:
+  - generic: Undo
+- button "Redo" [disabled]:
+  - generic: Redo
+- button "Product display button":
+  - generic: Product display button
+- button "Move step Email Opt-In Options":
+  - button "Move step":
+    - generic: Move step
+  - button "Email Opt-In":
+    - generic: Email Opt-In
+  - button "Options":
+    - generic: Options
+- button "Move step SMS Opt-In Options":
+  - button "Move step":
+    - generic: Move step
+  - button "SMS Opt-In":
+    - generic: SMS Opt-In
+  - button "Options":
+    - generic: Options
+- button "Step" [disabled]:
+  - generic: Step
+- button "Success":
+  - generic: Success
+- generic: mobile or desktop
+- group "mobile or desktop":
+  - generic: mobile or desktop
+  - radiogroup:
+    - radio "Both" [checked]
+    - generic: Both
+    - radio "Desktop"
+    - generic: Desktop
+    - radio "Mobile"
+    - generic: Mobile
+- heading "Desktop" [level=6]
+- dialog "POPUP Form":
+  - button "Close dialog":
+  - text: Notify when
+  - text: Back in Stock
+  - img "divider"
+  - paragraph: Receive a reminder for when this item is back in stock.
+  - generic: Email
+  - textbox "Email Email":
+    - /placeholder: Enter your email address
+  - checkbox "also receive promotional marketing emails."
+  - generic: also receive promotional marketing emails.
+  - button "Notify Me!"
+  - button "Text me instead"
+  - img "logo"
+  - alert
+- heading "Mobile" [level=6]
+- dialog "POPUP Form":
+  - button "Close dialog":
+  - text: Notify when
+  - text: Back in Stock
+  - img "divider"
+  - paragraph: Receive a reminder for when this item is back in stock.
+  - generic: Email
+  - textbox "Enter your email address"
+  - checkbox "also receive promotional marketing emails."
+  - generic: also receive promotional marketing emails.
+  - button "Notify Me!"
+  - button "Text me instead"
+  - img "logo"
+  - alert
+- button "Zoom in":
+  - generic: Zoom in
+- generic: 80%
+- button "Zoom out":
+  - generic: Zoom out
+- separator
+- button "Reset position":
+  - generic: Reset position
+- button:
+  - generic: Convert QA landing page S7hUqi to a popup
+- generic: "2"
+- generic: 2 unread conversations
+- button:
+  - generic: Customize
+- button:
+  - generic: Start a new chat
+- button:
+  - generic: Expand
+- button:
+  - generic: Close
+- region:
+  - paragraph:
+    - text: Composer is an AI assistant. By sending a message, you consent to this chat being recorded and processed by us and our service providers.
+    - link:
+      - /url: https://privacy.klaviyo.com/policies/?name=klaviyo-privacy-policy
+      - text: Privacy Notice
+  - log:
+    - article:
+      - generic: You
+      - paragraph: Convert this existing QA landing page S7hUqi to a Popup in place, retaining its content and unpublished status. If this page type cannot be converted, explain the restriction and leave it unchanged.
+      - generic: 2 minutes ago
+      - button:
+        - generic: Copy this message
+    - article:
+      - generic: Composer
+      - status
+      - paragraph: I’ll check whether this landing page can be converted in place, keeping its content and unpublished status unchanged.
+      - button:
+        - generic: Worked for 3s
+      - paragraph:
+        - strong: Landing pages cannot be converted to Popups in place.
+        - text: The
+        - strong: Styles > Form type
+        - text: dropdown is available for standard signup forms, but landing pages do not expose it.
+      - paragraph:
+        - text: I made
+        - strong: no changes
+        - text: to S7hUqi. The form reader could not retrieve this landing page, so I couldn’t independently verify its content or unpublished status.
+      - paragraph:
+        - text: If you want an alternative, I can help
+        - button:
+          - generic: create a separate popup
+        - text: while leaving the landing page untouched.
+      - button:
+        - generic: Copy this message
+      - button:
+        - generic: Give positive feedback
+      - button:
+        - generic: Give negative feedback
+      - generic: 2 minutes ago
+- button:
+  - generic: Scroll to the latest message.
+- button:
+- textbox:
+  - paragraph
+- generic: create a separate popup
+- generic: Tab
+- button [disabled]:
+- generic: Add a file
+- generic: Drop your file here to add it to your message.
+- dialog
+- status: 1Password menu is available. Press down arrow to select.
+- tooltip "Edit styles":
+  - generic: Edit styles
